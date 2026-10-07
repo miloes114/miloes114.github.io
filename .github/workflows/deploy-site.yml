@@ -1,0 +1,70 @@
+name: Build and deploy academic website
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "index.qmd"
+      - "research.qmd"
+      - "projects.qmd"
+      - "publications.qmd"
+      - "about.qmd"
+      - "_quarto.yml"
+      - "styles.scss"
+      - "assets/**"
+      - ".github/workflows/deploy-site.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+    steps:
+      - name: Check out source
+        uses: actions/checkout@v4
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: 1.10.18
+
+      - name: Render website
+        run: quarto render
+
+      - name: Verify rendered pages
+        run: |
+          test -s _site/index.html
+          test -s _site/research.html
+          test -s _site/projects.html
+          test -s _site/publications.html
+          test -s _site/about.html
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    if: github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
