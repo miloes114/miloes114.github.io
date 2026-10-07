@@ -7,6 +7,20 @@ My research lies at the interface of **molecular ecology, environmental stress b
 
 I work primarily with aquatic organisms, communities and holobionts. Field-realistic environmental gradients provide the empirical foundation for questions that I increasingly address across molecular, microbial, physiological and ecological layers.
 
+::: {.photo-strip .research-photo-strip}
+::: {.photo-strip-item .photo-strip-item--boat}
+![](assets/images/research/river-fieldwork-boat.webp){fig-alt="River fieldwork from a small boat."}
+:::
+
+::: {.photo-strip-item .photo-strip-item--stream}
+![](assets/images/research/urban-stream-sampling.webp){fig-alt="Field sampling with a net in an urban aquatic system."}
+:::
+
+::: {.photo-strip-item .photo-strip-item--reef}
+![](assets/images/research/coral-reef-diving.webp){fig-alt="Scuba diving above a coral reef."}
+:::
+:::
+
 ## Real-world environmental stress
 
 Organisms in nature encounter mixtures of chemical and non-chemical stressors that vary through space and time. I use **field gradients and environmentally realistic exposure scenarios** to study these responses under ecological complexity.

@@ -3,11 +3,19 @@ title: "About"
 subtitle: "Aquatic biologist working across molecular ecology, environmental stress biology and integrative eco-omics"
 ---
 
+::: {.about-current}
+::: {.about-current-copy}
 ## Current role
 
 I am a **Postdoctoral Researcher and Lecturer** in the Molecular Ecotoxicology Group at the Institute for Environmental Research (IfER), RWTH Aachen University, Germany. My work connects aquatic organisms and field-realistic environmental gradients with molecular ecology, integrative eco-omics and questions of biological organisation and resilience.
 
 [RWTH profile](https://etox.rwth-aachen.de/?page_id=295)
+:::
+
+::: {.about-current-photo}
+![](assets/images/profile/camilo-escobar-sierra-headshot.webp){fig-alt="Portrait of Camilo Escobar-Sierra."}
+:::
+:::
 
 ## Scientific trajectory
 
@@ -20,6 +28,20 @@ During the **Erasmus Mundus ACES MSc**, I worked across marine ecology, aquacult
 My **PhD at the University of Cologne** focused on fish stress physiology, transcriptomics and multiple environmental stressors. Field transcriptomics connected molecular responses with environmentally realistic conditions and established the foundation for my current work.
 
 At **RWTH Aachen University**, I have expanded this trajectory into integrative eco-omics, non-model organism resources, microbiomes and metagenomics, genomics, reproducible analysis and systems-level questions of biological resilience.
+
+::: {.photo-strip}
+::: {.photo-strip-item .photo-strip-item--fish}
+![](assets/images/research/field-fish-processing.webp){fig-alt="Processing aquatic samples during fieldwork."}
+:::
+
+::: {.photo-strip-item .photo-strip-item--group}
+![](assets/images/research/aquatic-fieldwork-group.webp){fig-alt="Group gathered around aquatic field sampling and field equipment."}
+:::
+
+::: {.photo-strip-item .photo-strip-item--campaign}
+![](assets/images/research/aquatic-field-campaign.webp){fig-alt="Field vehicle and sampling equipment at a mountain research site."}
+:::
+:::
 
 ## Academic roots
 

@@ -111,6 +111,78 @@ p {
   color: var(--muted);
 }
 
+.home-landscape {
+  margin: .25rem 0 2.4rem;
+}
+
+.home-landscape p {
+  max-width: none;
+}
+
+.home-landscape img {
+  aspect-ratio: 2 / 1;
+  display: block;
+  object-fit: cover;
+  object-position: center 52%;
+  width: 100%;
+}
+
+.about-current {
+  align-items: center;
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: minmax(0, 1fr) minmax(180px, .38fr);
+  margin: 1.8rem 0 2.6rem;
+}
+
+.about-current-copy h2:first-child {
+  margin-top: 0;
+}
+
+.about-current-photo {
+  margin: 0;
+}
+
+.about-current-photo img {
+  display: block;
+  height: auto;
+  margin-left: auto;
+  max-width: 17rem;
+  width: 100%;
+}
+
+.photo-strip {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin: 1.8rem 0 2.4rem;
+}
+
+.photo-strip-item {
+  margin: 0;
+  min-width: 0;
+}
+
+.photo-strip-item img {
+  aspect-ratio: 4 / 3;
+  display: block;
+  object-fit: cover;
+  object-position: center;
+  width: 100%;
+}
+
+.photo-strip-item--fish img {
+  object-position: center 48%;
+}
+
+.photo-strip-item--campaign img {
+  object-position: center 60%;
+}
+
+.photo-strip-item--reef img {
+  object-position: center 55%;
+}
+
 .btn-primary {
   background-color: var(--accent);
   border-color: var(--accent);
@@ -296,6 +368,8 @@ a {
 
 @media (max-width: 900px) {
   .hero,
+  .about-current,
+  .photo-strip,
   .research-grid,
   .project-grid,
   .project-strip,
@@ -310,6 +384,11 @@ a {
 
   .hero-side {
     max-width: 620px;
+  }
+
+  .about-current-photo img {
+    margin-left: 0;
+    max-width: 15rem;
   }
 }
 

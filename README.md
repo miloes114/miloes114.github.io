@@ -73,6 +73,9 @@ The rendered website is written to `_site/`, which is excluded from version cont
 ├── styles.scss
 └── assets/
     └── images/
+        ├── home/
+        ├── profile/
+        └── research/
 ```
 
 The site does not require R, Python or Jupyter to render.
