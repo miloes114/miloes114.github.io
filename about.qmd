@@ -9,7 +9,7 @@ subtitle: "Aquatic biologist working across molecular ecology, environmental str
 
 I am a **Postdoctoral Researcher and Lecturer** in the Molecular Ecotoxicology Group at the Institute for Environmental Research (IfER), RWTH Aachen University, Germany. My work connects aquatic organisms and field-realistic environmental gradients with molecular ecology, integrative eco-omics and questions of biological organisation and resilience.
 
-[RWTH profile](https://etox.rwth-aachen.de/?page_id=295)
+[RWTH profile](https://www.ifer.rwth-aachen.de/cms/ifer/der-lehrstuhl/team/~bhigka/mitarbeiter-pvz-/?gguid=PER-JZW92L6&allou=1)
 :::
 
 ::: {.about-current-photo}
@@ -49,7 +49,7 @@ My research developed through several complementary scientific traditions that c
 
 ::: {.academic-roots}
 ::: {.academic-root}
-### BSc — Juan Felipe Blanco-Libreros
+### BSc — [Juan Felipe Blanco-Libreros](https://www.udea.edu.co/wps/portal/udea/web/inicio/investigacion/areas-investigacion/inicio-fichas-en/fichas/faculty-exact-natural-sciences/elice-lotic-ecology-islands-coasts-and-estuaries)
 
 Field ecology · fish communities · multiscale environmental drivers
 
@@ -57,7 +57,7 @@ Universidad de Antioquia
 :::
 
 ::: {.academic-root}
-### MSc — Eugenia Apostolaki
+### MSc — [Eugenia Apostolaki](https://io.hcmr.gr/member-page-2/?memberid=apostolakie)
 
 Marine ecology · aquaculture impacts · first integration of omics with ecological questions
 
@@ -65,7 +65,7 @@ ACES Erasmus Mundus
 :::
 
 ::: {.academic-root}
-### PhD — Kathrin Lampert
+### PhD — [Kathrin Lampert](https://zoologie.uni-koeln.de/en/arbeitsgruppen/ag-lampert/inhalt/staff/prof-dr-kathrin-lampert)
 
 Multiple stressors · transcriptomics · molecular ecology · scientific independence
 
@@ -73,7 +73,7 @@ University of Cologne
 :::
 
 ::: {.academic-root}
-### Postdoctoral research — Pedro Inostroza
+### Postdoctoral research — [Pedro Inostroza](https://rwthcontacts.rwth-aachen.de/person/PER-3HVTSUA)
 
 Ecotoxicogenomics · integrative eco-omics · mentoring · academic independence
 
@@ -107,10 +107,10 @@ My academic service includes peer review for journals across environmental scien
 [ORCID](https://orcid.org/0000-0001-9105-4378)  
 [Google Scholar](https://scholar.google.com/citations?user=MZuNEEoAAAAJ&hl=en)  
 [ResearchGate](https://www.researchgate.net/profile/Camilo-Escobar-Sierra)  
-[RWTH Aachen](https://etox.rwth-aachen.de/?page_id=295)
+[RWTH Aachen](https://www.ifer.rwth-aachen.de/cms/ifer/der-lehrstuhl/team/~bhigka/mitarbeiter-pvz-/?gguid=PER-JZW92L6&allou=1)
 
 ## Contact
 
 For research collaborations, scientific exchange or teaching-related enquiries, please use my institutional profile:
 
-[RWTH Aachen profile](https://etox.rwth-aachen.de/?page_id=295)
+[RWTH Aachen profile](https://www.ifer.rwth-aachen.de/cms/ifer/der-lehrstuhl/team/~bhigka/mitarbeiter-pvz-/?gguid=PER-JZW92L6&allou=1)
