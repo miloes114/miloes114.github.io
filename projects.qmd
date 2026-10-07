@@ -1,0 +1,99 @@
+---
+title: "Projects"
+subtitle: "Selected research compendia, computational workflows, and emerging resources"
+---
+
+These projects bring together field studies, non-model resources and reproducible analysis around environmental stress and biological organisation.
+
+## Reproducible eco-omics and field ecotoxicology
+::: {.project-grid}
+::: {.project-card}
+### EchoGO
+
+**Problem:** Functional interpretation can depend on the annotation resource used, especially for non-model organisms.
+
+**Contribution:** An R framework for annotation-context-aware interpretation after differential-expression analysis, anchored to the target experimental enrichment.
+
+**Programme link:** Supports transparent and transferable interpretation across non-model eco-omics.
+
+R · RNA-seq · GO enrichment · non-model organisms · reproducibility
+
+[GitHub](https://github.com/miloes114/EchoGo)  
+[Zenodo](https://doi.org/10.5281/zenodo.17660708)
+:::
+
+::: {.project-card}
+### Holtemme Gammarus Ecotoxicogenomics
+
+**Problem:** Relating environmental micropollutant mixtures to molecular responses in wild *Gammarus pulex* across a river gradient.
+
+**Contribution:** A reproducible analysis integrating environmental chemistry, transcriptome-wide structure, differential expression, functional interpretation and gene-network analysis.
+
+**Programme link:** Connects a real-world stress gradient with molecular and network-level responses.
+
+field ecotoxicology · RNA-seq · environmental chemistry · WGCNA · research compendium
+
+[GitHub](https://github.com/miloes114/holtemme-gammarus-ecotoxicogenomics)
+:::
+:::
+
+## Non-model organism workflows and resources
+::: {.project-grid}
+::: {.project-card}
+### Cottus Genomics
+
+**Problem:** Building genome and transcriptome resources for European sculpins.
+
+**Contribution:** A reproducible workflow combining genome annotation, RNA evidence, de novo transcriptomics, HPC execution, validation gates and release-oriented provenance.
+
+**Programme link:** Develops reusable molecular resources for non-model aquatic organisms.
+
+genomics · BRAKER · Trinity · HPC · non-model organisms
+
+:::
+
+::: {.project-card}
+### Skåne Environmental Metagenomics
+
+**Problem:** Characterising microbial genomes and environmental viruses across spatially structured metagenomes.
+
+**Contribution:** A Snakemake/HPC workflow across seven sites, including MAG recovery, vOTU catalogues, taxonomy, quantification and evidence-aware virus–host linkage.
+
+**Programme link:** Extends my work into microbial and viral community organisation, environmental metagenomics and host–virus ecological structure.
+
+metagenomics · viromics · MAGs · Snakemake · HPC
+
+:::
+
+::: {.project-card}
+### Zebrafish Exposure Transcriptomics
+
+**Problem:** Comparing molecular responses across two chemical-exposure experiments in zebrafish larvae.
+
+**Contribution:** A reproducible RNA-seq workflow integrating differential expression, target enrichment, annotation-context interpretation, KEGG analysis and mechanism-focused synthesis.
+
+**Programme link:** Adds a comparative experimental exposure context to my work with environmental stress responses.
+
+zebrafish · RNA-seq · DESeq2 · functional genomics
+
+:::
+:::
+
+## Emerging programme
+::: {.project-grid}
+::: {.project-card}
+### TROPECO-OMICS / Hi-SGH
+
+**Question:** How does biological coordination change as environmental stress increases, and when might compensation give way to loss of resilience?
+
+**Status:** Proposal under evaluation.
+
+**Programme link:** Hi-SGH provides a testable framework for studying cross-layer coordination, compensation and resilience along real-world stress gradients.
+
+multi-omics · holobiont · field gradients · resilience · systems ecology
+:::
+:::
+
+## Project philosophy
+
+Across these projects, I preserve data provenance, connect analytical outputs to primary evidence and document the decisions that shape biological interpretation.

@@ -1,0 +1,77 @@
+---
+title: "Research"
+subtitle: "From environmental exposure to biological organisation and resilience"
+---
+
+My research lies at the interface of **molecular ecology, environmental stress biology, systems ecology and integrative eco-omics**. I study how environmental stress affects biological systems from molecular responses to organismal performance and ecological change, and when adaptive responses begin to fail.
+
+I work primarily with aquatic organisms, communities and holobionts. Field-realistic environmental gradients provide the empirical foundation for questions that I increasingly address across molecular, microbial, physiological and ecological layers.
+
+## Real-world environmental stress
+
+Organisms in nature encounter mixtures of chemical and non-chemical stressors that vary through space and time. I use **field gradients and environmentally realistic exposure scenarios** to study these responses under ecological complexity.
+
+My doctoral work focused on freshwater fish exposed to multiple anthropogenic stressors in urban rivers. This included field-based de novo transcriptomics and comparative multi-tissue RNA-seq to resolve molecular responses to freshwater salinisation and complex environmental conditions.
+
+More recently, I have expanded this work to freshwater macroinvertebrates and other vertebrate systems, linking environmental chemistry with molecular response patterns and reproducible ecotoxicogenomic analysis.
+
+Across these studies, I ask **which biological processes respond, how responses differ among tissues or taxa, and what those responses imply about organismal condition and ecological risk**.
+
+## Biological organisation and resilience
+
+My emerging research programme focuses on **biological organisation and resilience under environmental stress**. I am interested in how stress changes coordination among molecular, microbial, physiological and organismal layers, and where compensatory responses begin to lose their capacity to maintain biological performance.
+
+I am developing the **Hierarchical Stress Gradient Hypothesis (Hi-SGH)** as a testable framework for this question. The working hypothesis is that increasing stress may first strengthen compensatory organisation and coordination, while rising biological costs can eventually produce threshold behaviour and loss of coherence or resilience.
+
+### Conceptual architecture of Hi-SGH
+
+<ol class="stress-gradient-map" aria-label="Proposed conceptual architecture of the Hierarchical Stress Gradient Hypothesis">
+  <li><strong>Environmental stress</strong></li>
+  <li><strong>Compensatory organisation</strong></li>
+  <li><strong>Coordination and biological cost</strong></li>
+  <li><strong>Possible threshold behaviour</strong></li>
+  <li><strong>Potential loss of coherence or resilience</strong></li>
+</ol>
+
+Testing this pattern across real-world stress gradients is one route toward understanding when adaptive reorganisation gives way to resilience loss.
+
+## Integrative eco-omics
+
+Transcriptomics has been a core part of my work since my PhD. My current research expands this foundation through:
+
+- proteomics and multi-omics integration;
+- host-associated microbiomes and metabarcoding;
+- bacterial and viral metagenomics;
+- genome and transcriptome resources for non-model organisms;
+- physiological and histopathological endpoints;
+- environmental chemistry and spatial ecological gradients.
+
+The aim is to connect molecular and microbial patterns with organismal condition, performance and ecological context, and to develop a more integrated view of stress responses across biological layers.
+
+This is particularly important for non-model aquatic organisms, where annotation gaps, uneven reference resources and complex field designs shape what can be inferred from molecular data.
+
+## Reproducible environmental bioinformatics
+
+Field datasets and non-model organisms repeatedly bring challenges in annotation, provenance and reproducibility. I develop workflows that make analytical decisions explicit and keep results connected to the underlying biological evidence.
+
+My approach emphasises:
+
+**Traceability.** Analytical outputs retain their relationship to the experimental evidence.
+
+**Reproducibility.** Code, environments, data boundaries and decision points are documented so analyses can be reproduced and audited.
+
+**Biological interpretability.** Functional and statistical outputs are organised around the strength and context of the underlying evidence.
+
+**Transferability.** Workflows are designed for reuse across organisms and projects while retaining biologically important assumptions.
+
+EchoGO grew from this approach, and the same principles guide my current genomics, transcriptomics, metagenomics and research-compendium work.
+
+## Where this research is going
+
+My longer-term goal is to connect:
+
+**environmental exposure → molecular and microbial response → biological organisation → organismal condition and performance → resilience → ecological consequence**
+
+Freshwater and coastal systems provide especially useful real-world gradients for developing and testing these questions.
+
+I want this programme to clarify how biological systems maintain function under pressure, how compensatory responses are organised across layers, and where those responses begin to fail.

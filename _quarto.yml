@@ -1,0 +1,48 @@
+project:
+  type: website
+  render:
+    - index.qmd
+    - research.qmd
+    - projects.qmd
+    - publications.qmd
+    - about.qmd
+
+website:
+  title: "Camilo Escobar-Sierra"
+  site-url: "https://miloes114.github.io"
+  description: "Molecular ecology, environmental stress biology, systems ecology, and integrative eco-omics."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: projects.qmd
+        text: Projects
+      - href: publications.qmd
+        text: Publications
+      - href: about.qmd
+        text: About
+    right:
+      - text: CV
+        href: https://miloes114.github.io/miloes114-academic-cv/Camilo_Escobar_Sierra_Academic_CV.pdf
+      - icon: github
+        href: https://github.com/miloes114
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/camilo-escobar-sierra-a17973116/
+        aria-label: LinkedIn
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?user=MZuNEEoAAAAJ&hl=en
+        aria-label: Google Scholar
+  page-footer:
+    left: "© Camilo Escobar-Sierra"
+    right: "Molecular ecology · Environmental stress biology"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: false
+    smooth-scroll: true

@@ -1,0 +1,5 @@
+# Quarto render output and local project state
+_site/
+index_files/
+/.quarto/
+**/*.quarto_ipynb

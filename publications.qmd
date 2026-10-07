@@ -1,0 +1,91 @@
+---
+title: "Publications"
+subtitle: "Selected work across my research programme"
+---
+
+These selected outputs show how field ecology, environmental stress biology and molecular approaches have developed into questions about biological organisation and resilience.
+
+## Selected peer-reviewed publications
+
+### Non-model ecotoxicogenomics resource
+
+**Escobar-Sierra, C.**, Hassan, S., Weichert, F. G., Aronsson, H., Lampert, K. P., Hollert, H., Backhaus, T., & Inostroza, P. A. (2025).  
+**De novo transcriptome assembly and annotation of the common freshwater amphipod (*Gammarus pulex*): a valuable resource for ecotoxicogenomics.** *Scientific Data*, 12, 1502.  
+[DOI](https://doi.org/10.1038/s41597-025-05872-2)
+
+*Why it matters:* An open molecular resource designed to enable reproducible ecotoxicogenomics in a widely used non-model freshwater sentinel.
+
+---
+
+### Comparative multi-tissue fish transcriptomics
+
+**Escobar-Sierra, C.**, Cañedo-Argüelles, M., Vinyoles, D., & Lampert, K. P. (2024).  
+**Unraveling the molecular mechanisms of fish physiological response to freshwater salinization: A comparative multi-tissue transcriptomic study in a river polluted by potash mining.** *Environmental Pollution*, 357, 124400.  
+[DOI](https://doi.org/10.1016/j.envpol.2024.124400)
+
+*Why it matters:* Connected environmentally realistic exposure with tissue-specific and shared molecular response mechanisms across brain, gill, and liver.
+
+---
+
+### Field-based de novo transcriptomics
+
+**Escobar-Sierra, C.** & Lampert, K. P. (2024).  
+**Field application of de novo transcriptomic analysis to evaluate the effects of sublethal freshwater salinization on *Gasterosteus aculeatus* in urban streams.** *PLOS ONE*, 19, e0298213.  
+[DOI](https://doi.org/10.1371/journal.pone.0298213)
+
+*Why it matters:* Demonstrated how de novo transcriptomics can recover mechanistic sublethal responses directly from wild fish under complex field conditions.
+
+---
+
+### Multiple-stressor theory
+
+Vos, M., Hering, D., Gessner, M. O., et al., **Escobar-Sierra, C.**, et al. (2023).  
+**The Asymmetric Response Concept explains ecological consequences of multiple stressor exposure and release.** *Science of the Total Environment*, 872, 162196.  
+[DOI](https://doi.org/10.1016/j.scitotenv.2023.162196)
+
+*Why it matters:* Contributed to a broader conceptual framework for understanding why ecological response to stressor increase and release need not follow the same trajectory.
+
+---
+
+### Ecology meets omics
+
+**Escobar-Sierra, C.**, de Kock, W., Hasler-Sheetal, H., Holmer, M., Chatzigeorgiou, G., Tsapakis, M., & Apostolaki, E. T. (2023).<br>
+**Metabolomics unravels grazing interactions under nutrient enrichment from aquaculture.** *Diversity*, 15, 31.  
+[DOI](https://doi.org/10.3390/d15010031)
+
+*Why it matters:* An early integration of ecological experimentation with an omics approach, linking aquaculture-associated nutrient enrichment to community-level metabolic responses.
+
+---
+
+## Software
+
+### EchoGO
+
+**Escobar-Sierra, C.**, Langschied, F., Miller, A., & Inostroza, P. A.  
+Open-source R framework for annotation-context-aware functional interpretation in non-model eco-omics.
+
+[GitHub](https://github.com/miloes114/EchoGo) · [Zenodo](https://doi.org/10.5281/zenodo.17660708)
+
+## Data resources
+
+### *Gammarus pulex* transcriptome resource
+
+An open molecular resource described in the *Scientific Data* article above. The article DOI is the stable entry point to its data-availability information.
+
+[DOI](https://doi.org/10.1038/s41597-025-05872-2)
+
+## Research compendia
+
+### Holtemme Gammarus ecotoxicogenomics research compendium
+
+A versioned reproducible research compendium integrating environmental chemistry, RNA-seq, functional interpretation, and network analysis.
+
+[GitHub](https://github.com/miloes114/holtemme-gammarus-ecotoxicogenomics)
+
+---
+
+## Full publication record
+
+For the complete publication list:
+
+[Google Scholar](https://scholar.google.com/citations?user=MZuNEEoAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0001-9105-4378) · [ResearchGate](https://www.researchgate.net/profile/Camilo-Escobar-Sierra) · [Academic CV](https://miloes114.github.io/miloes114-academic-cv/Camilo_Escobar_Sierra_Academic_CV.pdf)
