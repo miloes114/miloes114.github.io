@@ -10,9 +10,11 @@ on:
       - "projects.qmd"
       - "publications.qmd"
       - "about.qmd"
+      - "es/**"
       - "_quarto.yml"
       - "styles.scss"
       - "assets/**"
+      - "includes/**"
       - ".github/workflows/deploy-site.yml"
   workflow_dispatch:
 
@@ -48,6 +50,11 @@ jobs:
           test -s _site/projects.html
           test -s _site/publications.html
           test -s _site/about.html
+          test -s _site/es/index.html
+          test -s _site/es/research.html
+          test -s _site/es/projects.html
+          test -s _site/es/publications.html
+          test -s _site/es/about.html
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

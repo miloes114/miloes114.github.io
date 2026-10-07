@@ -2,6 +2,10 @@
 title: "Camilo Escobar-Sierra"
 subtitle: "Molecular ecology · Environmental stress biology · Systems ecology · Integrative eco-omics"
 page-layout: full
+header-includes:
+  - '<link rel="alternate" hreflang="en" href="https://miloes114.github.io/">'
+  - '<link rel="alternate" hreflang="es" href="https://miloes114.github.io/es/">'
+  - '<link rel="alternate" hreflang="x-default" href="https://miloes114.github.io/">'
 ---
 
 ::: {.hero}

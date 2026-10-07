@@ -1,0 +1,96 @@
+---
+title: "Publicaciones"
+subtitle: "Trabajos seleccionados a través de mi programa de investigación"
+lang: es
+header-includes:
+  - '<link rel="alternate" hreflang="en" href="https://miloes114.github.io/publications.html">'
+  - '<link rel="alternate" hreflang="es" href="https://miloes114.github.io/es/publications.html">'
+  - '<link rel="alternate" hreflang="x-default" href="https://miloes114.github.io/publications.html">'
+---
+
+Estos trabajos muestran cómo la ecología de campo, la biología del estrés ambiental y los enfoques moleculares han ido convergiendo hacia preguntas sobre organización biológica y resiliencia.
+
+## Publicaciones seleccionadas revisadas por pares
+
+### Recurso de ecotoxicogenómica para un organismo no modelo
+
+**Escobar-Sierra, C.**, Hassan, S., Weichert, F. G., Aronsson, H., Lampert, K. P., Hollert, H., Backhaus, T., & Inostroza, P. A. (2025).  
+**De novo transcriptome assembly and annotation of the common freshwater amphipod (*Gammarus pulex*): a valuable resource for ecotoxicogenomics.** *Scientific Data*, 12, 1502.  
+[DOI](https://doi.org/10.1038/s41597-025-05872-2)
+
+*Por qué es relevante:* Un recurso molecular abierto diseñado para facilitar ecotoxicogenómica reproducible en un organismo centinela de agua dulce ampliamente utilizado y no modelo.
+
+---
+
+### Transcriptómica comparativa multitejido en peces
+
+**Escobar-Sierra, C.**, Cañedo-Argüelles, M., Vinyoles, D., & Lampert, K. P. (2024).  
+**Unraveling the molecular mechanisms of fish physiological response to freshwater salinization: A comparative multi-tissue transcriptomic study in a river polluted by potash mining.** *Environmental Pollution*, 357, 124400.  
+[DOI](https://doi.org/10.1016/j.envpol.2024.124400)
+
+*Por qué es relevante:* Conectó una exposición ambientalmente realista con mecanismos de respuesta molecular específicos y compartidos entre cerebro, branquias e hígado.
+
+---
+
+### Transcriptómica *de novo* aplicada en campo
+
+**Escobar-Sierra, C.** & Lampert, K. P. (2024).  
+**Field application of de novo transcriptomic analysis to evaluate the effects of sublethal freshwater salinization on *Gasterosteus aculeatus* in urban streams.** *PLOS ONE*, 19, e0298213.  
+[DOI](https://doi.org/10.1371/journal.pone.0298213)
+
+*Por qué es relevante:* Mostró cómo la transcriptómica *de novo* puede recuperar respuestas mecanísticas subletales directamente en peces silvestres bajo condiciones de campo complejas.
+
+---
+
+### Teoría de estresores múltiples
+
+Vos, M., Hering, D., Gessner, M. O., et al., **Escobar-Sierra, C.**, et al. (2023).  
+**The Asymmetric Response Concept explains ecological consequences of multiple stressor exposure and release.** *Science of the Total Environment*, 872, 162196.  
+[DOI](https://doi.org/10.1016/j.scitotenv.2023.162196)
+
+*Por qué es relevante:* Contribuyó a un marco conceptual más amplio para entender por qué la respuesta ecológica al aumento y a la liberación de estresores no tiene que seguir la misma trayectoria.
+
+---
+
+### Ecología y ómicas
+
+**Escobar-Sierra, C.**, de Kock, W., Hasler-Sheetal, H., Holmer, M., Chatzigeorgiou, G., Tsapakis, M., & Apostolaki, E. T. (2023).<br>
+**Metabolomics unravels grazing interactions under nutrient enrichment from aquaculture.** *Diversity*, 15, 31.  
+[DOI](https://doi.org/10.3390/d15010031)
+
+*Por qué es relevante:* Una integración temprana entre experimentación ecológica y un enfoque ómico, conectando el enriquecimiento de nutrientes asociado a la acuicultura con respuestas metabólicas a nivel de comunidad.
+
+---
+
+## Software
+
+### EchoGO
+
+**Escobar-Sierra, C.**, Langschied, F., Miller, A., & Inostroza, P. A.  
+Marco abierto en R para la interpretación funcional sensible al contexto de anotación en eco-ómicas de organismos no modelo.
+
+[GitHub](https://github.com/miloes114/EchoGo) · [Zenodo](https://doi.org/10.5281/zenodo.17660708)
+
+## Recursos de datos
+
+### Recurso transcriptómico de *Gammarus pulex*
+
+Un recurso molecular abierto descrito en el artículo de *Scientific Data* anterior. El DOI del artículo es el punto de entrada estable a la información sobre disponibilidad de los datos.
+
+[DOI](https://doi.org/10.1038/s41597-025-05872-2)
+
+## Compendios de investigación
+
+### Compendio de ecotoxicogenómica de *Gammarus* en el Holtemme
+
+Un compendio de investigación reproducible y versionado que integra química ambiental, RNA-seq, interpretación funcional y análisis de redes.
+
+[GitHub](https://github.com/miloes114/holtemme-gammarus-ecotoxicogenomics)
+
+---
+
+## Registro completo de publicaciones
+
+Para consultar la lista completa:
+
+[Google Scholar](https://scholar.google.com/citations?user=MZuNEEoAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0001-9105-4378) · [ResearchGate](https://www.researchgate.net/profile/Camilo-Escobar-Sierra) · [CV académico](https://miloes114.github.io/miloes114-academic-cv/Camilo_Escobar_Sierra_Academic_CV.pdf)

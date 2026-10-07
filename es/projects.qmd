@@ -1,0 +1,104 @@
+---
+title: "Proyectos"
+subtitle: "Compendios de investigación, flujos computacionales y recursos emergentes seleccionados"
+lang: es
+header-includes:
+  - '<link rel="alternate" hreflang="en" href="https://miloes114.github.io/projects.html">'
+  - '<link rel="alternate" hreflang="es" href="https://miloes114.github.io/es/projects.html">'
+  - '<link rel="alternate" hreflang="x-default" href="https://miloes114.github.io/projects.html">'
+---
+
+Estos proyectos integran estudios de campo, recursos para organismos no modelo y análisis reproducibles alrededor del estrés ambiental y la organización biológica.
+
+## Eco-ómicas reproducibles y ecotoxicología de campo
+::: {.project-grid}
+::: {.project-card}
+### EchoGO
+
+**Problema:** La interpretación funcional puede depender del recurso de anotación utilizado, especialmente en organismos no modelo.
+
+**Contribución:** Un marco en R para la interpretación sensible al contexto de anotación después del análisis de expresión diferencial, anclado al enriquecimiento experimental del organismo de estudio.
+
+**Vínculo con el programa:** Favorece una interpretación transparente y transferible en eco-ómicas de organismos no modelo.
+
+R · RNA-seq · enriquecimiento GO · organismos no modelo · reproducibilidad
+
+[GitHub](https://github.com/miloes114/EchoGo)  
+[Zenodo](https://doi.org/10.5281/zenodo.17660708)
+:::
+
+::: {.project-card}
+### Holtemme Gammarus Ecotoxicogenomics
+
+**Problema:** Relacionar mezclas ambientales de micropoluentes con respuestas moleculares en poblaciones silvestres de *Gammarus pulex* a lo largo de un gradiente fluvial.
+
+**Contribución:** Un análisis reproducible que integra química ambiental, estructura global del transcriptoma, expresión diferencial, interpretación funcional y análisis de redes génicas.
+
+**Vínculo con el programa:** Conecta un gradiente de estrés en condiciones reales con respuestas moleculares y a nivel de redes.
+
+ecotoxicología de campo · RNA-seq · química ambiental · WGCNA · compendio reproducible
+
+[GitHub](https://github.com/miloes114/holtemme-gammarus-ecotoxicogenomics)
+:::
+:::
+
+## Flujos y recursos para organismos no modelo
+::: {.project-grid}
+::: {.project-card}
+### Cottus Genomics
+
+**Problema:** Construir recursos genómicos y transcriptómicos para *Cottus* europeos.
+
+**Contribución:** Un flujo reproducible que combina anotación genómica, evidencia de RNA, transcriptómica *de novo*, ejecución en HPC, controles de validación y procedencia orientada a versiones publicables.
+
+**Vínculo con el programa:** Desarrolla recursos moleculares reutilizables para organismos acuáticos no modelo.
+
+genómica · BRAKER · Trinity · HPC · organismos no modelo
+
+:::
+
+::: {.project-card}
+### Skåne Environmental Metagenomics
+
+**Problema:** Caracterizar genomas microbianos y virus ambientales a través de metagenomas espacialmente estructurados.
+
+**Contribución:** Un flujo Snakemake/HPC a través de siete sitios, que incluye recuperación de MAGs, catálogos de vOTUs, taxonomía, cuantificación y vínculos virus–hospedador basados en evidencia.
+
+**Vínculo con el programa:** Extiende mi trabajo hacia la organización de comunidades microbianas y virales, la metagenómica ambiental y la estructura ecológica hospedador–virus.
+
+metagenómica · virómica · MAGs · Snakemake · HPC
+
+:::
+
+::: {.project-card}
+### Zebrafish Exposure Transcriptomics
+
+**Problema:** Comparar respuestas moleculares entre dos experimentos de exposición química en larvas de pez cebra.
+
+**Contribución:** Un flujo reproducible de RNA-seq que integra expresión diferencial, enriquecimiento dirigido, interpretación sensible al contexto de anotación, análisis KEGG y síntesis centrada en mecanismos.
+
+**Vínculo con el programa:** Añade un contexto experimental comparativo de exposición a mi trabajo sobre respuestas al estrés ambiental.
+
+pez cebra · RNA-seq · DESeq2 · genómica funcional
+
+:::
+:::
+
+## Programa emergente
+::: {.project-grid}
+::: {.project-card}
+### TROPECO-OMICS / Hi-SGH
+
+**Pregunta:** ¿Cómo cambia la coordinación biológica a medida que aumenta el estrés ambiental y cuándo puede la compensación dar paso a una pérdida de resiliencia?
+
+**Estado:** Propuesta en evaluación.
+
+**Vínculo con el programa:** Hi-SGH proporciona un marco comprobable para estudiar coordinación entre capas, compensación y resiliencia a lo largo de gradientes de estrés en condiciones reales.
+
+multi-ómicas · holobionte · gradientes de campo · resiliencia · ecología de sistemas
+:::
+:::
+
+## Enfoque de los proyectos
+
+A través de estos proyectos preservo la procedencia de los datos, conecto los resultados analíticos con la evidencia primaria y documento las decisiones que determinan la interpretación biológica.

@@ -1,0 +1,127 @@
+---
+title: "Camilo Escobar-Sierra"
+subtitle: "Ecología molecular · Biología del estrés ambiental · Ecología de sistemas · Eco-ómicas integrativas"
+page-layout: full
+lang: es
+header-includes:
+  - '<link rel="alternate" hreflang="en" href="https://miloes114.github.io/">'
+  - '<link rel="alternate" hreflang="es" href="https://miloes114.github.io/es/">'
+  - '<link rel="alternate" hreflang="x-default" href="https://miloes114.github.io/">'
+---
+
+::: {.hero}
+::: {.hero-copy}
+## Comprender la organización biológica y la resiliencia frente al estrés ambiental
+
+Mi investigación estudia cómo el estrés ambiental afecta a los sistemas biológicos, desde las respuestas moleculares hasta el desempeño de los organismos y el cambio ecológico, y cuándo las respuestas adaptativas comienzan a fallar.
+
+Combino gradientes ambientales en condiciones reales con ecología molecular, eco-ómicas integrativas y enfoques computacionales para conectar los mecanismos biológicos con el desempeño de los organismos y sus consecuencias ecológicas. Trabajo principalmente con organismos, comunidades y holobiontes acuáticos.
+
+[Explorar la investigación](research.qmd){.btn .btn-primary}
+[CV académico](https://miloes114.github.io/miloes114-academic-cv/Camilo_Escobar_Sierra_Academic_CV.pdf){.btn .btn-outline-secondary}
+:::
+
+::: {.hero-side}
+### Posición actual
+
+**Investigador posdoctoral y docente**<br>
+Institute for Environmental Research (IfER), RWTH Aachen University
+:::
+:::
+
+::: {.home-landscape}
+![](../assets/images/home/freshwater-river-landscape.webp){fig-alt="Río de montaña rodeado de bosque bajo un pico rocoso."}
+:::
+
+---
+
+## Tres dimensiones conectadas de investigación
+
+En conjunto, estas dimensiones estructuran mi programa de investigación.
+
+::: {.research-grid}
+::: {.research-card}
+### Estrés ambiental en condiciones reales
+
+Los gradientes de campo y las exposiciones ambientalmente realistas permiten estudiar cómo las mezclas químicas, la salinización y otras presiones concurrentes afectan a los organismos dentro de su complejidad ecológica.
+
+[Leer más →](research.qmd#real-world-environmental-stress)
+:::
+
+::: {.research-card}
+### Organización biológica y resiliencia
+
+Estudio cómo el estrés modifica la coordinación entre capas moleculares, microbianas, fisiológicas y del organismo, y dónde las respuestas compensatorias empiezan a perder su capacidad de mantener el funcionamiento biológico.
+
+[Leer más →](research.qmd#biological-organisation-and-resilience)
+:::
+
+::: {.research-card}
+### Eco-ómicas integrativas
+
+Integro cada vez más la transcriptómica con información de microbioma, metagenómica, proteómica, genómica, fisiología y ecología para interpretar respuestas a través de distintas capas biológicas.
+
+[Leer más →](research.qmd#integrative-eco-omics)
+:::
+:::
+
+::: {.cross-cutting}
+A través de estas preguntas desarrollo flujos de trabajo y recursos reproducibles para sistemas biológicos complejos y organismos no modelo, con énfasis en la trazabilidad, la interpretación biológica y la reutilización computacional.
+:::
+
+::: {.research-programme-map role="group" aria-labelledby="research-programme-title-es"}
+### Un mapa conceptual del programa de investigación {#research-programme-title-es}
+
+El mapa resume cómo conecto los gradientes ambientales con las respuestas biológicas, la organización entre capas, la resiliencia y las consecuencias ecológicas.
+
+<ol class="programme-map" aria-label="Organización conceptual del programa de investigación">
+  <li><strong>Estresores y gradientes ambientales</strong><span>Ecología de campo · química ambiental</span></li>
+  <li><strong>Respuestas moleculares, microbianas y fisiológicas</strong><span>Transcriptómica · microbioma · fisiología</span></li>
+  <li><strong>Organización biológica entre capas</strong><span>Multi-ómicas · redes · coordinación</span></li>
+  <li><strong>Compensación y resiliencia</strong><span>Amortiguación · umbrales · desempeño</span></li>
+  <li><strong>Consecuencias ecológicas</strong><span>Condición del organismo · interpretación ecológica</span></li>
+</ol>
+:::
+
+---
+
+## Trabajos seleccionados
+
+::: {.project-strip}
+::: {.project-mini}
+**EchoGO**  
+Un marco reproducible para la interpretación funcional sensible al contexto de anotación en transcriptómica de organismos no modelo.
+
+[GitHub](https://github.com/miloes114/EchoGo) · [Zenodo](https://doi.org/10.5281/zenodo.17660708)
+:::
+
+::: {.project-mini}
+**Holtemme Gammarus Ecotoxicogenomics**  
+Un compendio reproducible que conecta gradientes de micropoluentes con respuestas transcriptómicas y de redes génicas en poblaciones silvestres de *Gammarus pulex*.
+
+[GitHub](https://github.com/miloes114/holtemme-gammarus-ecotoxicogenomics)
+:::
+
+::: {.project-mini}
+**Programa de investigación emergente**  
+Integración de información molecular, microbiana, fisiológica y ecológica para estudiar organización biológica, compensación y pérdida de resiliencia bajo estrés ambiental.
+
+[Programa de investigación](research.qmd#biological-organisation-and-resilience)
+:::
+:::
+
+---
+
+## Una trayectoria arraigada en los organismos y la ecología de campo
+
+Mi trayectoria de investigación ha integrado progresivamente **enfoques de campo, moleculares y computacionales** alrededor de preguntas sobre estrés ambiental. Comenzó en la ictiología, la ecología de agua dulce y la ciencia acuática aplicada en Colombia, se desarrolló a través de la fisiología del estrés en peces y la transcriptómica de campo, y hoy se extiende hacia las eco-ómicas integrativas y preguntas de resiliencia a nivel de sistemas.
+
+[Sobre mí](about.qmd) · [Publicaciones seleccionadas](publications.qmd)
+
+---
+
+## Seguir la investigación
+
+Comparto avances de proyectos, actividad en congresos y trabajo en curso a través de mis perfiles profesionales.
+
+[LinkedIn](https://www.linkedin.com/in/camilo-escobar-sierra-a17973116/) · [GitHub](https://github.com/miloes114) · [CV académico](https://miloes114.github.io/miloes114-academic-cv/Camilo_Escobar_Sierra_Academic_CV.pdf)

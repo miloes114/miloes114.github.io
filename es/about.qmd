@@ -1,0 +1,121 @@
+---
+title: "Sobre mí"
+subtitle: "Biólogo acuático en la intersección de la ecología molecular, la biología del estrés ambiental y las eco-ómicas integrativas"
+lang: es
+header-includes:
+  - '<link rel="alternate" hreflang="en" href="https://miloes114.github.io/about.html">'
+  - '<link rel="alternate" hreflang="es" href="https://miloes114.github.io/es/about.html">'
+  - '<link rel="alternate" hreflang="x-default" href="https://miloes114.github.io/about.html">'
+---
+
+::: {.about-current}
+::: {.about-current-copy}
+## Posición actual
+
+Soy **investigador posdoctoral y docente** en el grupo de Ecotoxicología Molecular del Institute for Environmental Research (IfER), RWTH Aachen University, Alemania. Mi trabajo conecta organismos acuáticos y gradientes ambientales en condiciones reales con ecología molecular, eco-ómicas integrativas y preguntas sobre organización biológica y resiliencia.
+
+[Perfil institucional en RWTH](https://www.ifer.rwth-aachen.de/cms/ifer/der-lehrstuhl/team/~bhigka/mitarbeiter-pvz-/?gguid=PER-JZW92L6&allou=1)
+:::
+
+::: {.about-current-photo}
+![](../assets/images/profile/camilo-escobar-sierra-headshot.webp){fig-alt="Retrato de Camilo Escobar-Sierra."}
+:::
+:::
+
+## Trayectoria científica
+
+Mi trayectoria de investigación ha integrado progresivamente enfoques de campo, moleculares y computacionales para entender cómo el estrés ambiental afecta a los sistemas biológicos, desde las respuestas moleculares hasta el desempeño de los organismos y el cambio ecológico.
+
+En **Colombia** me formé en biología e ictiología, ecología de agua dulce, biodiversidad y ciencia acuática aplicada. Mis primeros trabajos estudiaron comunidades de peces y camarones en quebradas tropicales y su respuesta a factores ambientales a distintas escalas espaciales.
+
+Durante el **máster Erasmus Mundus ACES** trabajé en ecología marina, impactos de la acuicultura y gestión ambiental. La investigación sobre interacciones entre herbívoros y macroalgas me introdujo a la integración de enfoques ómicos con preguntas ecológicas.
+
+Mi **doctorado en la University of Cologne** se centró en fisiología del estrés en peces, transcriptómica y múltiples estresores ambientales. La transcriptómica de campo conectó respuestas moleculares con condiciones ambientalmente realistas y estableció la base de mi trabajo actual.
+
+En **RWTH Aachen University** he ampliado esta trayectoria hacia las eco-ómicas integrativas, recursos para organismos no modelo, microbiomas y metagenómica, genómica, análisis reproducibles y preguntas de resiliencia biológica a nivel de sistemas.
+
+::: {.photo-strip}
+::: {.photo-strip-item .photo-strip-item--fish}
+![](../assets/images/research/field-fish-processing.webp){fig-alt="Procesamiento de muestras acuáticas durante trabajo de campo."}
+:::
+
+::: {.photo-strip-item .photo-strip-item--group}
+![](../assets/images/research/aquatic-fieldwork-group.webp){fig-alt="Grupo reunido durante un muestreo acuático con equipo de campo."}
+:::
+
+::: {.photo-strip-item .photo-strip-item--campaign}
+![](../assets/images/research/aquatic-field-campaign.webp){fig-alt="Vehículo de campo y equipo de muestreo en un sitio de investigación de montaña."}
+:::
+:::
+
+## Raíces académicas
+
+Mi investigación se ha desarrollado a través de varias tradiciones científicas complementarias que continúan dando forma a las preguntas y métodos que utilizo hoy.
+
+::: {.academic-roots}
+::: {.academic-root}
+### Grado — [Juan Felipe Blanco-Libreros](https://www.udea.edu.co/wps/portal/udea/web/inicio/investigacion/areas-investigacion/inicio-fichas-en/fichas/faculty-exact-natural-sciences/elice-lotic-ecology-islands-coasts-and-estuaries)
+
+Ecología de campo · comunidades de peces · factores ambientales a múltiples escalas
+
+Universidad de Antioquia
+:::
+
+::: {.academic-root}
+### Máster — [Eugenia Apostolaki](https://io.hcmr.gr/member-page-2/?memberid=apostolakie)
+
+Ecología marina · impactos de la acuicultura · primera integración de ómicas con preguntas ecológicas
+
+ACES Erasmus Mundus
+:::
+
+::: {.academic-root}
+### Doctorado — [Kathrin Lampert](https://zoologie.uni-koeln.de/en/arbeitsgruppen/ag-lampert/inhalt/staff/prof-dr-kathrin-lampert)
+
+Múltiples estresores · transcriptómica · ecología molecular · independencia científica
+
+University of Cologne
+:::
+
+::: {.academic-root}
+### Posdoctorado — [Pedro Inostroza](https://rwthcontacts.rwth-aachen.de/person/PER-3HVTSUA)
+
+Ecotoxicogenómica · eco-ómicas integrativas · mentoría · independencia académica
+
+RWTH Aachen University
+:::
+:::
+
+## Docencia y mentoría
+
+La docencia y la formación de investigadores son componentes centrales de mi trabajo académico. En RWTH Aachen University participo en docencia de grado y posgrado en Limnología, Ciencia de Datos, Ecotoxicología Molecular, Introducción a las Ciencias Ambientales y seminarios interdisciplinarios. Anteriormente enseñé Ecología de Ríos en la Universidad de Antioquia.
+
+Superviso y acompaño estudiantes de grado, máster y doctorado en diseño experimental, bioinformática, transcriptómica, ecotoxicogenómica e interpretación multi-ómica. Mi enfoque pone énfasis en la autonomía científica, el rigor metodológico y el análisis reproducible. Busco que los investigadores comprendan las decisiones analíticas detrás de sus resultados, conecten el trabajo de campo, experimental y computacional, y desarrollen progresivamente mayor independencia para formular y resolver problemas científicos.
+
+## La siguiente etapa
+
+Estoy consolidando un programa de investigación que pueda desarrollar con creciente autonomía científica. Esto implica desarrollar mis propias preguntas, competir por financiación, liderar proyectos, formar investigadores y construir colaboraciones duraderas alrededor del estrés ambiental y la resiliencia biológica.
+
+En esta etapa considero posiciones posdoctorales avanzadas o becas competitivas, plazas *tenure-track* y oportunidades iniciales de liderazgo de grupo que ofrezcan espacio real para ese desarrollo.
+
+Mi objetivo a largo plazo es establecer y financiar un grupo interdisciplinario centrado en la organización biológica y la resiliencia bajo estrés ambiental, al tiempo que formo investigadores en una biología acuática integrativa y orientada a problemas.
+
+## Servicio académico
+
+Mi servicio académico incluye revisión por pares para revistas de ciencias ambientales, ecología, ecotoxicología y biología de peces, además de presentaciones en congresos, seminarios invitados y colaboración internacional.
+
+## Perfiles
+
+[CV académico](https://miloes114.github.io/miloes114-academic-cv/Camilo_Escobar_Sierra_Academic_CV.pdf)<br>
+[LinkedIn](https://www.linkedin.com/in/camilo-escobar-sierra-a17973116/)<br>
+[GitHub](https://github.com/miloes114)  
+[ORCID](https://orcid.org/0000-0001-9105-4378)  
+[Google Scholar](https://scholar.google.com/citations?user=MZuNEEoAAAAJ&hl=en)  
+[ResearchGate](https://www.researchgate.net/profile/Camilo-Escobar-Sierra)  
+[RWTH Aachen](https://www.ifer.rwth-aachen.de/cms/ifer/der-lehrstuhl/team/~bhigka/mitarbeiter-pvz-/?gguid=PER-JZW92L6&allou=1)
+
+## Contacto
+
+Para colaboraciones de investigación, intercambio científico o consultas relacionadas con docencia, puede utilizar mi perfil institucional:
+
+[Perfil institucional en RWTH](https://www.ifer.rwth-aachen.de/cms/ifer/der-lehrstuhl/team/~bhigka/mitarbeiter-pvz-/?gguid=PER-JZW92L6&allou=1)

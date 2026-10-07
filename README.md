@@ -1,27 +1,29 @@
 # Camilo Escobar-Sierra — Academic Research Website
 
-Source for my academic research website: **https://miloes114.github.io**
+Source for my bilingual academic research website: **https://miloes114.github.io**
 
 I am a postdoctoral researcher and lecturer working across **molecular ecology, environmental stress biology, systems ecology and integrative eco-omics**. My research focuses on how environmental stress reorganises biological systems across molecular, organismal and ecological scales, with aquatic organisms, communities and holobionts as the main empirical foundation.
 
-The website presents my research programme, selected projects and publications, academic trajectory, teaching and mentoring.
+The website presents my research programme, selected projects and publications, academic trajectory, teaching and mentoring in **English and Spanish**.
 
-**Academic CV:** https://miloes114.github.io/miloes114-academic-cv/  
-**GitHub:** https://github.com/miloes114  
-**Google Scholar:** https://scholar.google.com/citations?user=MZuNEEoAAAAJ&hl=en  
-**ORCID:** https://orcid.org/0000-0001-9105-4378
+- **English:** https://miloes114.github.io/
+- **Español:** https://miloes114.github.io/es/
+- **Academic CV:** https://miloes114.github.io/miloes114-academic-cv/
+- **GitHub:** https://github.com/miloes114
+- **Google Scholar:** https://scholar.google.com/citations?user=MZuNEEoAAAAJ&hl=en
+- **ORCID:** https://orcid.org/0000-0001-9105-4378
 
 ## Built with Quarto
 
-The site is intentionally lightweight: five Quarto pages, one SCSS stylesheet, and no database or application framework.
+The site is intentionally lightweight: five mirrored English/Spanish content pages, one shared SCSS stylesheet, shared image assets, and a small language-switch script.
 
-- **Home** — research identity and programme overview
-- **Research** — research questions, biological resilience and the emerging Hi-SGH framework
-- **Projects** — selected research compendia, computational workflows and resources
-- **Publications** — selected publications, software, data resources and research compendia
-- **About** — scientific trajectory, academic roots, teaching, mentoring and career direction
+- **Home / Inicio** — research identity and programme overview
+- **Research / Investigación** — research questions, biological resilience and the emerging Hi-SGH framework
+- **Projects / Proyectos** — selected research compendia, computational workflows and resources
+- **Publications / Publicaciones** — selected publications, software, data resources and research compendia
+- **About / Sobre mí** — scientific trajectory, academic roots, teaching, mentoring and career direction
 
-The visual design uses a restrained academic layout with responsive grids, a small colour palette and simple HTML/CSS components.
+The `ES / EN` navbar control preserves the equivalent page when switching languages. English remains at the root URL and Spanish is published under `/es/`.
 
 ## Use this repository for your own academic website
 
@@ -31,18 +33,19 @@ A simple workflow is:
 
 1. **Fork this repository** into your GitHub account.
 2. Rename the repository to **`<your-username>.github.io`** if you want it to be your GitHub user site.
-3. Replace the personal and research content in:
+3. Replace the English content in:
    - `index.qmd`
    - `research.qmd`
    - `projects.qmd`
    - `publications.qmd`
    - `about.qmd`
-4. Update `_quarto.yml` with your name, site URL, description and profile links.
-5. Adjust colours, typography and responsive components in `styles.scss`.
-6. Preview locally with Quarto.
-7. Publish the rendered site with GitHub Pages.
+4. Replace or translate the mirrored Spanish pages under `es/`.
+5. Update `_quarto.yml` with your name, site URL, description and profile links.
+6. Adjust colours, typography and responsive components in `styles.scss`.
+7. Preview locally with Quarto.
+8. Publish the rendered site with GitHub Pages.
 
-The current structure is deliberately small enough to understand and modify without a web framework.
+The structure is deliberately small enough to understand and modify without a web framework.
 
 ## Local preview
 
@@ -52,13 +55,13 @@ Install [Quarto](https://quarto.org/), clone the repository and run:
 quarto preview
 ```
 
-To render the complete site:
+To render the complete bilingual site:
 
 ```bash
 quarto render
 ```
 
-The rendered website is written to `_site/`, which is excluded from version control.
+The rendered website is written to `_site/`, including the Spanish pages under `_site/es/`.
 
 ## Repository structure
 
@@ -70,19 +73,35 @@ The rendered website is written to `_site/`, which is excluded from version cont
 ├── projects.qmd
 ├── publications.qmd
 ├── about.qmd
-├── styles.scss
-└── assets/
-    └── images/
-        ├── home/
-        ├── profile/
-        └── research/
+├── es/
+│   ├── index.qmd
+│   ├── research.qmd
+│   ├── projects.qmd
+│   ├── publications.qmd
+│   └── about.qmd
+├── includes/
+│   └── language-switch.html
+├── assets/
+│   ├── js/
+│   │   └── language-switch.js
+│   └── images/
+│       ├── home/
+│       ├── profile/
+│       └── research/
+└── styles.scss
 ```
 
 The site does not require R, Python or Jupyter to render.
 
+## Bilingual structure
+
+Each Spanish page uses `lang: es` and has an English counterpart with reciprocal `hreflang` metadata. The language switcher updates the navbar labels and sends visitors to the corresponding page in the other language.
+
+The scientific content is maintained as authored translations rather than automatic browser translation, so terminology and interpretation can be reviewed explicitly.
+
 ## Reusing the design
 
-The Quarto configuration, styling and reusable layout components are available under the MIT License. You are welcome to adapt them for your own academic website.
+The Quarto configuration, styling, bilingual navigation and reusable layout components are available under the MIT License. You are welcome to adapt them for your own academic website.
 
 My research text, biography, publication descriptions and other personal academic content are not part of the reusable template and remain my original content. When adapting the repository, replace those sections with your own material.
 

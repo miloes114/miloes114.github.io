@@ -1,6 +1,10 @@
 ---
 title: "Projects"
 subtitle: "Selected research compendia, computational workflows, and emerging resources"
+header-includes:
+  - '<link rel="alternate" hreflang="en" href="https://miloes114.github.io/projects.html">'
+  - '<link rel="alternate" hreflang="es" href="https://miloes114.github.io/es/projects.html">'
+  - '<link rel="alternate" hreflang="x-default" href="https://miloes114.github.io/projects.html">'
 ---
 
 These projects bring together field studies, non-model resources and reproducible analysis around environmental stress and biological organisation.

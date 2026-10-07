@@ -6,6 +6,11 @@ project:
     - projects.qmd
     - publications.qmd
     - about.qmd
+    - es/index.qmd
+    - es/research.qmd
+    - es/projects.qmd
+    - es/publications.qmd
+    - es/about.qmd
 
 website:
   title: "Camilo Escobar-Sierra"
@@ -24,6 +29,9 @@ website:
       - href: about.qmd
         text: About
     right:
+      - text: ES
+        href: es/index.qmd
+        aria-label: Español
       - text: CV
         href: https://miloes114.github.io/miloes114-academic-cv/Camilo_Escobar_Sierra_Academic_CV.pdf
       - icon: github
@@ -46,3 +54,6 @@ format:
       - styles.scss
     toc: false
     smooth-scroll: true
+    include-after-body: includes/language-switch.html
+
+lang: en

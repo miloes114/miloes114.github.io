@@ -1,6 +1,10 @@
 ---
 title: "Research"
 subtitle: "From environmental exposure to biological organisation and resilience"
+header-includes:
+  - '<link rel="alternate" hreflang="en" href="https://miloes114.github.io/research.html">'
+  - '<link rel="alternate" hreflang="es" href="https://miloes114.github.io/es/research.html">'
+  - '<link rel="alternate" hreflang="x-default" href="https://miloes114.github.io/research.html">'
 ---
 
 My research lies at the interface of **molecular ecology, environmental stress biology, systems ecology and integrative eco-omics**. I study how environmental stress affects biological systems from molecular responses to organismal performance and ecological change, and when adaptive responses begin to fail.
