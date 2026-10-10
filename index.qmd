@@ -3,9 +3,9 @@ title: "Camilo Escobar-Sierra"
 subtitle: "Molecular ecology · Environmental stress biology · Systems ecology · Integrative eco-omics"
 page-layout: full
 header-includes:
-  - '<link rel="alternate" hreflang="en" href="https://miloes114.github.io/">'
-  - '<link rel="alternate" hreflang="es" href="https://miloes114.github.io/es/">'
-  - '<link rel="alternate" hreflang="x-default" href="https://miloes114.github.io/">'
+  - '<link rel="alternate" hreflang="en" href="https://camiloescobarsierra.com/">'
+  - '<link rel="alternate" hreflang="es" href="https://camiloescobarsierra.com/es/">'
+  - '<link rel="alternate" hreflang="x-default" href="https://camiloescobarsierra.com/">'
 ---
 
 ::: {.hero}
@@ -17,7 +17,7 @@ My research asks how environmental stress affects biological systems from molecu
 I combine field-realistic environmental gradients with molecular ecology, integrative eco-omics and computational approaches to connect biological mechanisms with organismal performance and ecological consequences. I work primarily with aquatic organisms, communities and holobionts.
 
 [Explore the research](research.qmd){.btn .btn-primary}
-[Academic CV](https://miloes114.github.io/miloes114-academic-cv/Camilo_Escobar_Sierra_Academic_CV.pdf){.btn .btn-outline-secondary}
+[Academic CV](https://camiloescobarsierra.com/miloes114-academic-cv/Camilo_Escobar_Sierra_Academic_CV.pdf){.btn .btn-outline-secondary}
 :::
 
 ::: {.hero-side}
@@ -123,4 +123,4 @@ My research trajectory has progressively integrated **field, molecular and compu
 
 Current project updates, conference activity and work in progress are shared through professional channels.
 
-[LinkedIn](https://www.linkedin.com/in/camilo-escobar-sierra-a17973116/) · [GitHub](https://github.com/miloes114) · [Academic CV](https://miloes114.github.io/miloes114-academic-cv/Camilo_Escobar_Sierra_Academic_CV.pdf)
+[LinkedIn](https://www.linkedin.com/in/camilo-escobar-sierra-a17973116/) · [GitHub](https://github.com/miloes114) · [Academic CV](https://camiloescobarsierra.com/miloes114-academic-cv/Camilo_Escobar_Sierra_Academic_CV.pdf)

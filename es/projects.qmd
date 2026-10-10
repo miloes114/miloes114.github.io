@@ -3,9 +3,9 @@ title: "Proyectos"
 subtitle: "Compendios de investigación, flujos computacionales y recursos emergentes seleccionados"
 lang: es
 header-includes:
-  - '<link rel="alternate" hreflang="en" href="https://miloes114.github.io/projects.html">'
-  - '<link rel="alternate" hreflang="es" href="https://miloes114.github.io/es/projects.html">'
-  - '<link rel="alternate" hreflang="x-default" href="https://miloes114.github.io/projects.html">'
+  - '<link rel="alternate" hreflang="en" href="https://camiloescobarsierra.com/projects.html">'
+  - '<link rel="alternate" hreflang="es" href="https://camiloescobarsierra.com/es/projects.html">'
+  - '<link rel="alternate" hreflang="x-default" href="https://camiloescobarsierra.com/projects.html">'
 ---
 
 Estos proyectos integran estudios de campo, recursos para organismos no modelo y análisis reproducibles alrededor del estrés ambiental y la organización biológica.

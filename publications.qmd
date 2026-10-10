@@ -2,9 +2,9 @@
 title: "Publications"
 subtitle: "Selected work across my research programme"
 header-includes:
-  - '<link rel="alternate" hreflang="en" href="https://miloes114.github.io/publications.html">'
-  - '<link rel="alternate" hreflang="es" href="https://miloes114.github.io/es/publications.html">'
-  - '<link rel="alternate" hreflang="x-default" href="https://miloes114.github.io/publications.html">'
+  - '<link rel="alternate" hreflang="en" href="https://camiloescobarsierra.com/publications.html">'
+  - '<link rel="alternate" hreflang="es" href="https://camiloescobarsierra.com/es/publications.html">'
+  - '<link rel="alternate" hreflang="x-default" href="https://camiloescobarsierra.com/publications.html">'
 ---
 
 These selected outputs show how field ecology, environmental stress biology and molecular approaches have developed into questions about biological organisation and resilience.
@@ -92,4 +92,4 @@ A versioned reproducible research compendium integrating environmental chemistry
 
 For the complete publication list:
 
-[Google Scholar](https://scholar.google.com/citations?user=MZuNEEoAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0001-9105-4378) · [ResearchGate](https://www.researchgate.net/profile/Camilo-Escobar-Sierra) · [Academic CV](https://miloes114.github.io/miloes114-academic-cv/Camilo_Escobar_Sierra_Academic_CV.pdf)
+[Google Scholar](https://scholar.google.com/citations?user=MZuNEEoAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0001-9105-4378) · [ResearchGate](https://www.researchgate.net/profile/Camilo-Escobar-Sierra) · [Academic CV](https://camiloescobarsierra.com/miloes114-academic-cv/Camilo_Escobar_Sierra_Academic_CV.pdf)

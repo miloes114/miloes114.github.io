@@ -3,9 +3,9 @@ title: "Investigación"
 subtitle: "De la exposición ambiental a la organización biológica y la resiliencia"
 lang: es
 header-includes:
-  - '<link rel="alternate" hreflang="en" href="https://miloes114.github.io/research.html">'
-  - '<link rel="alternate" hreflang="es" href="https://miloes114.github.io/es/research.html">'
-  - '<link rel="alternate" hreflang="x-default" href="https://miloes114.github.io/research.html">'
+  - '<link rel="alternate" hreflang="en" href="https://camiloescobarsierra.com/research.html">'
+  - '<link rel="alternate" hreflang="es" href="https://camiloescobarsierra.com/es/research.html">'
+  - '<link rel="alternate" hreflang="x-default" href="https://camiloescobarsierra.com/research.html">'
 ---
 
 Mi investigación se sitúa en la intersección de la **ecología molecular, la biología del estrés ambiental, la ecología de sistemas y las eco-ómicas integrativas**. Estudio cómo el estrés ambiental afecta a los sistemas biológicos, desde las respuestas moleculares hasta el desempeño de los organismos y el cambio ecológico, y cuándo las respuestas adaptativas comienzan a fallar.

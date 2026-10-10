@@ -14,7 +14,7 @@ project:
 
 website:
   title: "Camilo Escobar-Sierra"
-  site-url: "https://miloes114.github.io"
+  site-url: "https://camiloescobarsierra.com"
   description: "Molecular ecology, environmental stress biology, systems ecology, and integrative eco-omics."
   navbar:
     left:
@@ -33,7 +33,7 @@ website:
         href: es/index.qmd
         aria-label: Español
       - text: CV
-        href: https://miloes114.github.io/miloes114-academic-cv/Camilo_Escobar_Sierra_Academic_CV.pdf
+        href: https://camiloescobarsierra.com/miloes114-academic-cv/Camilo_Escobar_Sierra_Academic_CV.pdf
       - icon: github
         href: https://github.com/miloes114
         aria-label: GitHub

@@ -1,14 +1,14 @@
 # Camilo Escobar-Sierra — Academic Research Website
 
-Source for my bilingual academic research website: **https://miloes114.github.io**
+Source for my bilingual academic research website: **https://camiloescobarsierra.com**
 
 I am a postdoctoral researcher and lecturer working across **molecular ecology, environmental stress biology, systems ecology and integrative eco-omics**. My research focuses on how environmental stress reorganises biological systems across molecular, organismal and ecological scales, with aquatic organisms, communities and holobionts as the main empirical foundation.
 
 The website presents my research programme, selected projects and publications, academic trajectory, teaching and mentoring in **English and Spanish**.
 
-- **English:** https://miloes114.github.io/
-- **Español:** https://miloes114.github.io/es/
-- **Academic CV:** https://miloes114.github.io/miloes114-academic-cv/
+- **English:** https://camiloescobarsierra.com/
+- **Español:** https://camiloescobarsierra.com/es/
+- **Academic CV:** https://camiloescobarsierra.com/miloes114-academic-cv/
 - **GitHub:** https://github.com/miloes114
 - **Google Scholar:** https://scholar.google.com/citations?user=MZuNEEoAAAAJ&hl=en
 - **ORCID:** https://orcid.org/0000-0001-9105-4378

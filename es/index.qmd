@@ -4,9 +4,9 @@ subtitle: "Ecología molecular · Biología del estrés ambiental · Ecología d
 page-layout: full
 lang: es
 header-includes:
-  - '<link rel="alternate" hreflang="en" href="https://miloes114.github.io/">'
-  - '<link rel="alternate" hreflang="es" href="https://miloes114.github.io/es/">'
-  - '<link rel="alternate" hreflang="x-default" href="https://miloes114.github.io/">'
+  - '<link rel="alternate" hreflang="en" href="https://camiloescobarsierra.com/">'
+  - '<link rel="alternate" hreflang="es" href="https://camiloescobarsierra.com/es/">'
+  - '<link rel="alternate" hreflang="x-default" href="https://camiloescobarsierra.com/">'
 ---
 
 ::: {.hero}
@@ -18,7 +18,7 @@ Mi investigación estudia cómo el estrés ambiental afecta a los sistemas biol�
 Combino gradientes ambientales en condiciones reales con ecología molecular, eco-ómicas integrativas y enfoques computacionales para conectar los mecanismos biológicos con el desempeño de los organismos y sus consecuencias ecológicas. Trabajo principalmente con organismos, comunidades y holobiontes acuáticos.
 
 [Explorar la investigación](research.qmd){.btn .btn-primary}
-[CV académico](https://miloes114.github.io/miloes114-academic-cv/Camilo_Escobar_Sierra_Academic_CV.pdf){.btn .btn-outline-secondary}
+[CV académico](https://camiloescobarsierra.com/miloes114-academic-cv/Camilo_Escobar_Sierra_Academic_CV.pdf){.btn .btn-outline-secondary}
 :::
 
 ::: {.hero-side}
@@ -124,4 +124,4 @@ Mi trayectoria de investigación ha integrado progresivamente **enfoques de camp
 
 Comparto avances de proyectos, actividad en congresos y trabajo en curso a través de mis perfiles profesionales.
 
-[LinkedIn](https://www.linkedin.com/in/camilo-escobar-sierra-a17973116/) · [GitHub](https://github.com/miloes114) · [CV académico](https://miloes114.github.io/miloes114-academic-cv/Camilo_Escobar_Sierra_Academic_CV.pdf)
+[LinkedIn](https://www.linkedin.com/in/camilo-escobar-sierra-a17973116/) · [GitHub](https://github.com/miloes114) · [CV académico](https://camiloescobarsierra.com/miloes114-academic-cv/Camilo_Escobar_Sierra_Academic_CV.pdf)
