@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" role="img" aria-labelledby="title desc">
+  <title id="title">Asymmetric Response Concept</title>
+  <desc id="desc">Original schematic showing tolerance as most important during increasing stress, followed by stronger roles for dispersal and biotic interactions after stressor release.</desc>
+  <rect width="1000" height="520" fill="#ffffff"/>
+  <text x="60" y="48" font-family="Arial, sans-serif" font-size="27" font-weight="700" fill="#14252b">Asymmetric Response Concept</text>
+  <text x="60" y="80" font-family="Arial, sans-serif" font-size="17" fill="#627178">Different mechanisms dominate degradation and recovery trajectories</text>
+  <line x1="100" y1="420" x2="930" y2="420" stroke="#8da09f" stroke-width="2"/>
+  <line x1="100" y1="118" x2="100" y2="420" stroke="#8da09f" stroke-width="2"/>
+  <line x1="515" y1="112" x2="515" y2="420" stroke="#98aaa8" stroke-width="2" stroke-dasharray="8 8"/>
+  <text x="300" y="462" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#425856">Increasing stress</text>
+  <text x="720" y="462" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#425856">Recovery after stressor release</text>
+  <text x="515" y="103" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#627178">stressor release</text>
+  <text transform="translate(34 270) rotate(-90)" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#425856">Relative importance</text>
+
+  <path d="M110 170 C230 155, 380 165, 500 175 C545 190, 575 245, 615 318 C690 365, 790 376, 920 382"
+        fill="none" stroke="#aa6a3d" stroke-width="7" stroke-linecap="round"/>
+  <path d="M110 372 C270 370, 400 368, 500 360 C550 330, 585 250, 650 205 C730 178, 820 225, 920 276"
+        fill="none" stroke="#176b70" stroke-width="7" stroke-linecap="round"/>
+  <path d="M110 392 C285 390, 420 385, 500 375 C560 350, 620 300, 700 255 C780 225, 850 220, 920 218"
+        fill="none" stroke="#687f59" stroke-width="7" stroke-linecap="round"/>
+
+  <rect x="645" y="120" width="280" height="96" rx="10" fill="#f7faf9" stroke="#dce5e3"/>
+  <line x1="670" y1="148" x2="712" y2="148" stroke="#aa6a3d" stroke-width="7" stroke-linecap="round"/>
+  <text x="728" y="154" font-family="Arial, sans-serif" font-size="17" fill="#243039">Stress tolerance</text>
+  <line x1="670" y1="177" x2="712" y2="177" stroke="#176b70" stroke-width="7" stroke-linecap="round"/>
+  <text x="728" y="183" font-family="Arial, sans-serif" font-size="17" fill="#243039">Dispersal</text>
+  <line x1="670" y1="206" x2="712" y2="206" stroke="#687f59" stroke-width="7" stroke-linecap="round"/>
+  <text x="728" y="212" font-family="Arial, sans-serif" font-size="17" fill="#243039">Biotic interactions</text>
+
+  <text x="142" y="138" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#aa6a3d">Tolerance dominates response</text>
+  <text x="565" y="402" font-family="Arial, sans-serif" font-size="16" fill="#627178">Recovery depends increasingly on recolonisation and interactions</text>
+</svg>
