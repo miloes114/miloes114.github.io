@@ -1,7 +1,6 @@
 thesis_graphical_abstract_pages=17,42,56
-diversity_figure5_page=10
 gammarus_source=Scientific Data 2025 Figure 2, CC BY 4.0
 salinisation_source=Environmental Pollution 2024 graphical abstract / author thesis fallback, CC BY-NC
 field_denovo_source=Escobar-Sierra doctoral thesis chapter 1 graphical abstract, CC BY-NC
-metabolomics_source=Diversity 2023 Figure 5, CC BY 4.0
-echogo_source=EchoGO v0.1.4 README logo
+metabolomics_source=Published Diversity 2023 Figure 5 downloaded directly from the MDPI article asset, CC BY 4.0
+echogo_source=Displayed directly from the exact EchoGO v0.1.4 README logo asset

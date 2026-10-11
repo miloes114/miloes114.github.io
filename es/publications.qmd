@@ -73,12 +73,6 @@ Estos trabajos muestran cómo la ecología de campo, la biología del estrés am
 
 <p class="publication-meta">Vos, M., Hering, D., Gessner, M. O., et al., <strong>Escobar-Sierra, C.</strong>, et al. (2023). <em>Science of the Total Environment</em>, 872, 162196.</p>
 
-::: {.publication-visual .publication-visual--schematic}
-![](../assets/images/publications/arc-concept-schematic.svg){fig-alt="Esquema original del Concepto de Respuesta Asimétrica que muestra distintos impulsores ecológicos durante el aumento y la liberación de estresores."}
-:::
-
-<p class="publication-caption">Visual del estudio: esquema original del sitio web basado en el concepto desarrollado en Vos et al. (2023).</p>
-
 <p class="publication-why"><strong>Por qué es relevante.</strong> Contribuyó a un marco conceptual más amplio para entender por qué la respuesta ecológica al aumento y a la liberación de estresores no tiene que seguir la misma trayectoria.</p>
 
 <p class="publication-links">[DOI →](https://doi.org/10.1016/j.scitotenv.2023.162196)</p>
@@ -92,7 +86,7 @@ Estos trabajos muestran cómo la ecología de campo, la biología del estrés am
 <p class="publication-meta"><strong>Escobar-Sierra, C.</strong>, de Kock, W., Hasler-Sheetal, H., Holmer, M., Chatzigeorgiou, G., Tsapakis, M., & Apostolaki, E. T. (2023). <em>Diversity</em>, 15, 31.</p>
 
 ::: {.publication-visual}
-![](../assets/images/publications/aquaculture-metabolomics-key-figure.webp){fig-alt="Figura clave que muestra patrones metabólicos asociados al enriquecimiento de nutrientes por acuicultura y a las interacciones de pastoreo."}
+![](../assets/images/publications/aquaculture-metabolomics-figure5.png){fig-alt="Figura 5 publicada, que muestra el análisis Pattern Hunter para Paracentrotus lividus y los 25 principales bins espectrales de metabolitos asociados con la distancia al enriquecimiento de nutrientes por acuicultura."}
 :::
 
 <p class="publication-caption">Visual del estudio: Fig. 5 de Escobar-Sierra et al. (2023), CC BY 4.0.</p>
@@ -107,7 +101,7 @@ Estos trabajos muestran cómo la ecología de campo, la biología del estrés am
 ### EchoGO
 
 ::: {.software-showcase}
-![](../assets/images/publications/echogo-logo.webp){fig-alt="Logo de EchoGO." .software-logo}
+![](https://raw.githubusercontent.com/miloes114/EchoGo/v0.1.4/man/figures/echogo-logo.png){fig-alt="Logo de EchoGO." .software-logo}
 
 **Escobar-Sierra, C.**, Langschied, F., Miller, A., & Inostroza, P. A.  
 Marco abierto en R para la interpretación funcional sensible al contexto de anotación en eco-ómicas de organismos no modelo.

@@ -72,12 +72,6 @@ These selected outputs show how field ecology, environmental stress biology and 
 
 <p class="publication-meta">Vos, M., Hering, D., Gessner, M. O., et al., <strong>Escobar-Sierra, C.</strong>, et al. (2023). <em>Science of the Total Environment</em>, 872, 162196.</p>
 
-::: {.publication-visual .publication-visual--schematic}
-![](assets/images/publications/arc-concept-schematic.svg){fig-alt="Original schematic of the Asymmetric Response Concept showing different ecological drivers during stressor increase and stressor release."}
-:::
-
-<p class="publication-caption">Study visual: original website schematic based on the concept developed in Vos et al. (2023).</p>
-
 <p class="publication-why"><strong>Why it matters.</strong> Contributed to a broader conceptual framework for understanding why ecological response to stressor increase and release need not follow the same trajectory.</p>
 
 <p class="publication-links">[DOI →](https://doi.org/10.1016/j.scitotenv.2023.162196)</p>
@@ -91,7 +85,7 @@ These selected outputs show how field ecology, environmental stress biology and 
 <p class="publication-meta"><strong>Escobar-Sierra, C.</strong>, de Kock, W., Hasler-Sheetal, H., Holmer, M., Chatzigeorgiou, G., Tsapakis, M., & Apostolaki, E. T. (2023). <em>Diversity</em>, 15, 31.</p>
 
 ::: {.publication-visual}
-![](assets/images/publications/aquaculture-metabolomics-key-figure.webp){fig-alt="Key figure showing metabolite patterns associated with nutrient enrichment from aquaculture and grazing interactions."}
+![](assets/images/publications/aquaculture-metabolomics-figure5.png){fig-alt="Published Figure 5 showing the Pattern Hunter analysis for Paracentrotus lividus and the top 25 metabolite spectra bins associated with distance from aquaculture nutrient enrichment."}
 :::
 
 <p class="publication-caption">Study visual: Fig. 5 from Escobar-Sierra et al. (2023), CC BY 4.0.</p>
@@ -106,7 +100,7 @@ These selected outputs show how field ecology, environmental stress biology and 
 ### EchoGO
 
 ::: {.software-showcase}
-![](assets/images/publications/echogo-logo.webp){fig-alt="EchoGO logo." .software-logo}
+![](https://raw.githubusercontent.com/miloes114/EchoGo/v0.1.4/man/figures/echogo-logo.png){fig-alt="EchoGO logo." .software-logo}
 
 **Escobar-Sierra, C.**, Langschied, F., Miller, A., & Inostroza, P. A.  
 Open-source R framework for annotation-context-aware functional interpretation in non-model eco-omics.
