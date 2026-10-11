@@ -34,10 +34,10 @@ jobs:
             "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41597-025-05872-2/MediaObjects/41597_2025_5872_Fig2_HTML.png" \
             -o .tmp-publications/gammarus-fig2.png
 
-          # Diversity 2023, Fig. 5 (CC BY 4.0)
+          # Diversity 2023 open-access PDF (CC BY 4.0); Figure 5 is extracted below.
           curl -L --fail --retry 3 -A "Mozilla/5.0" \
-            "https://www.mdpi.com/diversity/diversity-15-00031/article_deploy/html/images/diversity-15-00031-g005.png" \
-            -o .tmp-publications/diversity-fig5.png
+            "https://findresearcher.sdu.dk/ws/portalfiles/portal/220167770/diversity_15_00031.pdf" \
+            -o .tmp-publications/diversity.pdf
 
           # Environmental Pollution 2024 graphical abstract (CC BY-NC).
           # If the publisher CDN refuses the request, use the copy embedded in the author's open thesis.
@@ -158,11 +158,22 @@ jobs:
               extract_largest_image(thesis, ga_pages[1], out/"freshwater-salinisation-graphical-abstract.webp")
 
           save_webp(tmp/"gammarus-fig2.png", out/"gammarus-transcriptome-workflow.webp")
-          save_webp(tmp/"diversity-fig5.png", out/"aquaculture-metabolomics-key-figure.webp")
+
+          diversity=tmp/"diversity.pdf"
+          fig5_pages=[]
+          for p in range(1, page_count(diversity)+1):
+              txt=page_text(diversity,p).lower()
+              if "figure 5" in txt and "pattern hunter" in txt:
+                  fig5_pages.append(p)
+          if not fig5_pages:
+              raise RuntimeError("Could not locate Diversity Figure 5 page")
+          extract_largest_image(diversity, fig5_pages[0], out/"aquaculture-metabolomics-key-figure.webp")
+
           save_webp(tmp/"echogo-logo.png", out/"echogo-logo.webp", maxw=600)
 
           manifest = [
               f"thesis_graphical_abstract_pages={','.join(map(str,ga_pages[:3]))}",
+              f"diversity_figure5_page={fig5_pages[0]}",
               "gammarus_source=Scientific Data 2025 Figure 2, CC BY 4.0",
               "salinisation_source=Environmental Pollution 2024 graphical abstract / author thesis fallback, CC BY-NC",
               "field_denovo_source=Escobar-Sierra doctoral thesis chapter 1 graphical abstract, CC BY-NC",
