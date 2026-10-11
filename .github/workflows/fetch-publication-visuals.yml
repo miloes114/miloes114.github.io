@@ -160,20 +160,15 @@ jobs:
           save_webp(tmp/"gammarus-fig2.png", out/"gammarus-transcriptome-workflow.webp")
 
           diversity=tmp/"diversity.pdf"
-          fig5_pages=[]
-          for p in range(1, page_count(diversity)+1):
-              txt=page_text(diversity,p).lower()
-              if "figure 5" in txt and "pattern hunter" in txt:
-                  fig5_pages.append(p)
-          if not fig5_pages:
-              raise RuntimeError("Could not locate Diversity Figure 5 page")
-          extract_largest_image(diversity, fig5_pages[0], out/"aquaculture-metabolomics-key-figure.webp")
+          # Figure 5 is on page 10 of the 19-page Version of Record.
+          fig5_page=10
+          extract_largest_image(diversity, fig5_page, out/"aquaculture-metabolomics-key-figure.webp")
 
           save_webp(tmp/"echogo-logo.png", out/"echogo-logo.webp", maxw=600)
 
           manifest = [
               f"thesis_graphical_abstract_pages={','.join(map(str,ga_pages[:3]))}",
-              f"diversity_figure5_page={fig5_pages[0]}",
+              f"diversity_figure5_page={fig5_page}",
               "gammarus_source=Scientific Data 2025 Figure 2, CC BY 4.0",
               "salinisation_source=Environmental Pollution 2024 graphical abstract / author thesis fallback, CC BY-NC",
               "field_denovo_source=Escobar-Sierra doctoral thesis chapter 1 graphical abstract, CC BY-NC",
