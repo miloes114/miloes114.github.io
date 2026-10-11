@@ -14,14 +14,17 @@ I work primarily with aquatic organisms, communities and holobionts. Field-reali
 ::: {.photo-strip .research-photo-strip}
 ::: {.photo-strip-item .photo-strip-item--boat}
 ![](assets/images/research/river-fieldwork-boat.webp){fig-alt="River fieldwork from a small boat."}
+<p class="photo-caption">Biodiversity assessment on the Cauca River, Colombia.</p>
 :::
 
 ::: {.photo-strip-item .photo-strip-item--stream}
 ![](assets/images/research/urban-stream-sampling.webp){fig-alt="Field sampling with a net in an urban aquatic system."}
+<p class="photo-caption">Electrofishing during biodiversity assessment in urban rivers of the Colombian Caribbean.</p>
 :::
 
 ::: {.photo-strip-item .photo-strip-item--reef}
 ![](assets/images/research/coral-reef-diving.webp){fig-alt="Scuba diving above a coral reef."}
+<p class="photo-caption">Exploring coral reefs in Egypt.</p>
 :::
 :::
 

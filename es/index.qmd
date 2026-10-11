@@ -31,6 +31,8 @@ Institute for Environmental Research (IfER), RWTH Aachen University
 
 ::: {.home-landscape}
 ![](../assets/images/home/freshwater-river-landscape.webp){fig-alt="Río de montaña rodeado de bosque bajo un pico rocoso."}
+
+<p class="photo-caption">Explorando y pescando en ríos árticos de Noruega.</p>
 :::
 
 ---

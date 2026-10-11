@@ -30,6 +30,8 @@ Institute for Environmental Research (IfER), RWTH Aachen University
 
 ::: {.home-landscape}
 ![](assets/images/home/freshwater-river-landscape.webp){fig-alt="Forested mountain river beneath a rocky peak."}
+
+<p class="photo-caption">Exploring and fishing Arctic rivers in Norway.</p>
 :::
 
 ---

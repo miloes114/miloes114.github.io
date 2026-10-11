@@ -36,14 +36,17 @@ At **RWTH Aachen University**, I have expanded this trajectory into integrative 
 ::: {.photo-strip}
 ::: {.photo-strip-item .photo-strip-item--fish}
 ![](assets/images/research/field-fish-processing.webp){fig-alt="Processing aquatic samples during fieldwork."}
+<p class="photo-caption">Fieldwork on molecular responses of fish to environmental gradients in agricultural streams.</p>
 :::
 
 ::: {.photo-strip-item .photo-strip-item--group}
 ![](assets/images/research/aquatic-fieldwork-group.webp){fig-alt="Group gathered around aquatic field sampling and field equipment."}
+<p class="photo-caption">Field biodiversity assessment with curious spectators, Colombia.</p>
 :::
 
 ::: {.photo-strip-item .photo-strip-item--campaign}
 ![](assets/images/research/aquatic-field-campaign.webp){fig-alt="Field vehicle and sampling equipment at a mountain research site."}
+<p class="photo-caption">Mobile field laboratory during a marine research campaign in the Mediterranean, Greece.</p>
 :::
 :::
 

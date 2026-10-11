@@ -15,14 +15,17 @@ Trabajo principalmente con organismos, comunidades y holobiontes acuáticos. Los
 ::: {.photo-strip .research-photo-strip}
 ::: {.photo-strip-item .photo-strip-item--boat}
 ![](../assets/images/research/river-fieldwork-boat.webp){fig-alt="Trabajo de campo en un río desde una embarcación pequeña."}
+<p class="photo-caption">Evaluación de biodiversidad en el río Cauca, Colombia.</p>
 :::
 
 ::: {.photo-strip-item .photo-strip-item--stream}
 ![](../assets/images/research/urban-stream-sampling.webp){fig-alt="Muestreo con red en un sistema acuático urbano."}
+<p class="photo-caption">Pesca eléctrica durante una evaluación de biodiversidad en ríos urbanos del Caribe colombiano.</p>
 :::
 
 ::: {.photo-strip-item .photo-strip-item--reef}
 ![](../assets/images/research/coral-reef-diving.webp){fig-alt="Buceo sobre un arrecife de coral."}
+<p class="photo-caption">Explorando arrecifes de coral en Egipto.</p>
 :::
 :::
 

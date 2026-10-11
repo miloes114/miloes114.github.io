@@ -37,14 +37,17 @@ En **RWTH Aachen University** he ampliado esta trayectoria hacia las eco-ómicas
 ::: {.photo-strip}
 ::: {.photo-strip-item .photo-strip-item--fish}
 ![](../assets/images/research/field-fish-processing.webp){fig-alt="Procesamiento de muestras acuáticas durante trabajo de campo."}
+<p class="photo-caption">Trabajo de campo sobre respuestas moleculares de peces a gradientes ambientales en arroyos agrícolas.</p>
 :::
 
 ::: {.photo-strip-item .photo-strip-item--group}
 ![](../assets/images/research/aquatic-fieldwork-group.webp){fig-alt="Grupo reunido durante un muestreo acuático con equipo de campo."}
+<p class="photo-caption">Evaluación de biodiversidad en campo con espectadores curiosos, Colombia.</p>
 :::
 
 ::: {.photo-strip-item .photo-strip-item--campaign}
 ![](../assets/images/research/aquatic-field-campaign.webp){fig-alt="Vehículo de campo y equipo de muestreo en un sitio de investigación de montaña."}
+<p class="photo-caption">Laboratorio móvil de campo durante una campaña de investigación marina en el Mediterráneo, Grecia.</p>
 :::
 :::
 
