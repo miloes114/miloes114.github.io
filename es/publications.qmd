@@ -66,10 +66,14 @@ Vos, M., Hering, D., Gessner, M. O., et al., **Escobar-Sierra, C.**, et al. (202
 
 ### EchoGO
 
+::: {.software-showcase}
+![](https://raw.githubusercontent.com/miloes114/EchoGo/v0.1.4/man/figures/echogo-logo.png){fig-alt="Logo de EchoGO." .software-logo}
+
 **Escobar-Sierra, C.**, Langschied, F., Miller, A., & Inostroza, P. A.  
 Marco abierto en R para la interpretación funcional sensible al contexto de anotación en eco-ómicas de organismos no modelo.
 
-[GitHub](https://github.com/miloes114/EchoGo) · [Zenodo](https://doi.org/10.5281/zenodo.17660708)
+[GitHub](https://github.com/miloes114/EchoGo) · [Última versión v0.1.4](https://github.com/miloes114/EchoGo/releases/tag/v0.1.4) · [Zenodo v0.1.4](https://doi.org/10.5281/zenodo.23158481)
+:::
 
 ## Recursos de datos
 

@@ -430,3 +430,16 @@ a {
   }
 
 }
+
+
+.software-showcase {
+  margin: 1rem 0 2rem;
+}
+
+.software-logo {
+  display: block;
+  height: auto;
+  margin: .6rem auto 1.2rem;
+  max-width: 190px;
+  width: min(42vw, 190px);
+}
