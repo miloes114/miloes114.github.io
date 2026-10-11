@@ -443,3 +443,124 @@ a {
   max-width: 190px;
   width: min(42vw, 190px);
 }
+
+/* Publication showcases */
+
+.publication-showcase {
+  border-bottom: 1px solid var(--line);
+  margin: 2.25rem 0 3.1rem;
+  padding-bottom: 2.7rem;
+}
+
+.publication-theme {
+  color: var(--accent);
+  font-size: .78rem;
+  font-weight: 700;
+  letter-spacing: .065em;
+  margin: 0 0 .55rem;
+  max-width: none;
+  text-transform: uppercase;
+}
+
+.publication-showcase h3 {
+  font-size: clamp(1.3rem, 2.3vw, 1.75rem);
+  line-height: 1.28;
+  margin: 0 0 .65rem;
+  max-width: 48ch;
+}
+
+.publication-meta {
+  color: var(--muted);
+  font-size: .92rem;
+  line-height: 1.55;
+  margin: 0 0 1.35rem;
+  max-width: 86ch;
+}
+
+.publication-visual {
+  align-items: center;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  display: flex;
+  justify-content: center;
+  margin: 1.25rem auto .55rem;
+  max-width: 900px;
+  min-height: 180px;
+  padding: .9rem;
+}
+
+.publication-visual p {
+  margin: 0;
+  max-width: none;
+  width: 100%;
+}
+
+.publication-visual img {
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  max-height: 650px;
+  max-width: 100%;
+  object-fit: contain;
+  width: auto;
+}
+
+.publication-visual--schematic img {
+  width: 100%;
+}
+
+.publication-caption {
+  color: var(--muted);
+  font-size: .79rem;
+  line-height: 1.4;
+  margin: .55rem auto 0;
+  max-width: 900px;
+}
+
+.publication-why {
+  margin: 1.2rem 0 .45rem;
+  max-width: 78ch;
+}
+
+.publication-links {
+  font-size: .94rem;
+  font-weight: 650;
+  margin: 0;
+}
+
+.software-showcase {
+  background: var(--paper-soft);
+  border-left: 2px solid var(--accent);
+  margin: 1rem 0 2.4rem;
+  padding: 1.25rem 1.4rem;
+}
+
+.software-showcase p {
+  max-width: 78ch;
+}
+
+.software-logo {
+  display: block;
+  height: auto;
+  margin: .25rem auto 1.1rem;
+  max-width: 210px;
+  width: min(46vw, 210px);
+}
+
+@media (max-width: 700px) {
+  .publication-showcase {
+    margin-top: 1.9rem;
+    padding-bottom: 2.2rem;
+  }
+
+  .publication-visual {
+    margin-left: 0;
+    margin-right: 0;
+    padding: .55rem;
+  }
+
+  .publication-visual img {
+    max-height: none;
+    width: 100%;
+  }
+}
