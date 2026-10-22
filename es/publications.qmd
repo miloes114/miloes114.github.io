@@ -13,6 +13,24 @@ Estos trabajos muestran cómo la ecología de campo, la biología del estrés am
 ## Publicaciones seleccionadas revisadas por pares
 
 ::: {.publication-showcase}
+<p class="publication-theme">Interpretación funcional entre contextos de anotación</p>
+
+### EchoGO: annotation-context-aware functional interpretation of transcriptomic data
+
+<p class="publication-meta"><strong>Escobar-Sierra, C.</strong>, Langschied, F., Miller, A., & Inostroza, P. A. (2026). <em>MethodsX</em>, 104222.</p>
+
+::: {.publication-visual}
+![](../assets/images/publications/echogo-methodsx-graphical-abstract.jpg){fig-alt="Resumen gráfico original de EchoGO que muestra cómo estudios de RNA-seq basados en referencias y ensamblajes de novo se interpretan mediante análisis objetivo y contextos de anotación seleccionados, produciendo evidencia trazable de términos GO, módulos funcionales y redes."}
+:::
+
+<p class="publication-caption">Visual del estudio: resumen gráfico original de Escobar-Sierra et al. (2026), <em>MethodsX</em>, CC BY 4.0.</p>
+
+<p class="publication-why"><strong>Por qué es relevante.</strong> Presenta un marco en R sensible al contexto de anotación que distingue la evidencia funcional del análisis objetivo de la recuperada mediante recursos de anotación alternativos, facilitando una interpretación y generación de hipótesis trazables en transcriptómica de referencia y de organismos no modelo.</p>
+
+<p class="publication-links">[DOI →](https://doi.org/10.1016/j.mex.2026.104222) · [Software EchoGO →](https://github.com/miloes114/EchoGo)</p>
+:::
+
+::: {.publication-showcase}
 <p class="publication-theme">Recurso de ecotoxicogenómica para un organismo no modelo</p>
 
 ### De novo transcriptome assembly and annotation of the common freshwater amphipod (*Gammarus pulex*): a valuable resource for ecotoxicogenomics
@@ -106,7 +124,7 @@ Estos trabajos muestran cómo la ecología de campo, la biología del estrés am
 **Escobar-Sierra, C.**, Langschied, F., Miller, A., & Inostroza, P. A.  
 Marco abierto en R para la interpretación funcional sensible al contexto de anotación en eco-ómicas de organismos no modelo.
 
-[GitHub](https://github.com/miloes114/EchoGo) · [Última versión v0.1.4](https://github.com/miloes114/EchoGo/releases/tag/v0.1.4) · [Zenodo v0.1.4](https://doi.org/10.5281/zenodo.23158481)
+[Artículo en MethodsX](https://doi.org/10.1016/j.mex.2026.104222) · [GitHub](https://github.com/miloes114/EchoGo) · [Última versión v0.1.4](https://github.com/miloes114/EchoGo/releases/tag/v0.1.4) · [Zenodo v0.1.4](https://doi.org/10.5281/zenodo.23158481)
 :::
 
 ## Recursos de datos

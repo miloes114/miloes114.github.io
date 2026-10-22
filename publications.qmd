@@ -12,6 +12,24 @@ These selected outputs show how field ecology, environmental stress biology and 
 ## Selected peer-reviewed publications
 
 ::: {.publication-showcase}
+<p class="publication-theme">Functional interpretation across annotation contexts</p>
+
+### EchoGO: annotation-context-aware functional interpretation of transcriptomic data
+
+<p class="publication-meta"><strong>Escobar-Sierra, C.</strong>, Langschied, F., Miller, A., & Inostroza, P. A. (2026). <em>MethodsX</em>, 104222.</p>
+
+::: {.publication-visual}
+![](assets/images/publications/echogo-methodsx-graphical-abstract.jpg){fig-alt="Published EchoGO graphical abstract showing how reference-based and de novo RNA-seq studies are interpreted through target analysis and selected annotation contexts, yielding traceable GO-term evidence, functional modules, and networks."}
+:::
+
+<p class="publication-caption">Study visual: original graphical abstract from Escobar-Sierra et al. (2026), <em>MethodsX</em>, CC BY 4.0.</p>
+
+<p class="publication-why"><strong>Why it matters.</strong> Introduces an annotation-context-aware R framework that keeps target functional evidence distinct from evidence recovered through alternative annotation resources, making interpretation and hypothesis generation traceable in reference-based and non-model transcriptomics.</p>
+
+<p class="publication-links">[DOI →](https://doi.org/10.1016/j.mex.2026.104222) · [EchoGO software →](https://github.com/miloes114/EchoGo)</p>
+:::
+
+::: {.publication-showcase}
 <p class="publication-theme">Non-model ecotoxicogenomics resource</p>
 
 ### De novo transcriptome assembly and annotation of the common freshwater amphipod (*Gammarus pulex*): a valuable resource for ecotoxicogenomics
@@ -105,7 +123,7 @@ These selected outputs show how field ecology, environmental stress biology and 
 **Escobar-Sierra, C.**, Langschied, F., Miller, A., & Inostroza, P. A.  
 Open-source R framework for annotation-context-aware functional interpretation in non-model eco-omics.
 
-[GitHub](https://github.com/miloes114/EchoGo) · [Latest release v0.1.4](https://github.com/miloes114/EchoGo/releases/tag/v0.1.4) · [Zenodo v0.1.4](https://doi.org/10.5281/zenodo.23158481)
+[Published MethodsX paper](https://doi.org/10.1016/j.mex.2026.104222) · [GitHub](https://github.com/miloes114/EchoGo) · [Latest release v0.1.4](https://github.com/miloes114/EchoGo/releases/tag/v0.1.4) · [Zenodo v0.1.4](https://doi.org/10.5281/zenodo.23158481)
 :::
 
 ## Data resources

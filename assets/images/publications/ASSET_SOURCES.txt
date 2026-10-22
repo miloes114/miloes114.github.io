@@ -4,3 +4,4 @@ salinisation_source=Environmental Pollution 2024 graphical abstract / author the
 field_denovo_source=Escobar-Sierra doctoral thesis chapter 1 graphical abstract, CC BY-NC
 metabolomics_source=Published Diversity 2023 Figure 5 downloaded directly from the MDPI article asset, CC BY 4.0
 echogo_source=Displayed directly from the exact EchoGO v0.1.4 README logo asset
+echogo_methodsx_2026_source=Original graphical abstract from Elsevier CDN (https://ars.els-cdn.com/content/image/1-s2.0-S2215016126004383-ga1_lrg.jpg), article DOI 10.1016/j.mex.2026.104222; 2026 MethodsX, CC BY 4.0
