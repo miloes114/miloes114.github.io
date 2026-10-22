@@ -94,7 +94,7 @@ El mapa resume cómo conecto los gradientes ambientales con las respuestas biol�
 **EchoGO**  
 Un marco reproducible para la interpretación funcional sensible al contexto de anotación en transcriptómica de organismos no modelo.
 
-[GitHub](https://github.com/miloes114/EchoGo) · [Zenodo](https://doi.org/10.5281/zenodo.17660708)
+[MethodsX](https://doi.org/10.1016/j.mex.2026.104222) · [GitHub](https://github.com/miloes114/EchoGo) · [Zenodo](https://doi.org/10.5281/zenodo.17658714)
 :::
 
 ::: {.project-mini}

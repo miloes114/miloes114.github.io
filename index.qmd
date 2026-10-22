@@ -93,7 +93,7 @@ The map follows how I connect environmental gradients with biological responses,
 **EchoGO**  
 A reproducible framework for annotation-context-aware functional interpretation in non-model transcriptomics.
 
-[GitHub](https://github.com/miloes114/EchoGo) · [Zenodo](https://doi.org/10.5281/zenodo.17660708)
+[MethodsX](https://doi.org/10.1016/j.mex.2026.104222) · [GitHub](https://github.com/miloes114/EchoGo) · [Zenodo](https://doi.org/10.5281/zenodo.17658714)
 :::
 
 ::: {.project-mini}

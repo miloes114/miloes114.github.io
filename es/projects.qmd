@@ -23,8 +23,8 @@ Estos proyectos integran estudios de campo, recursos para organismos no modelo y
 
 R · RNA-seq · enriquecimiento GO · organismos no modelo · reproducibilidad
 
-[GitHub](https://github.com/miloes114/EchoGo)  
-[Zenodo](https://doi.org/10.5281/zenodo.17660708)
+[Artículo en MethodsX](https://doi.org/10.1016/j.mex.2026.104222)  
+[GitHub](https://github.com/miloes114/EchoGo) · [Zenodo](https://doi.org/10.5281/zenodo.17658714)
 :::
 
 ::: {.project-card}
