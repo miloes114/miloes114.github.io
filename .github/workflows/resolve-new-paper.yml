@@ -1,0 +1,83 @@
+name: Resolve new ScienceDirect paper
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/resolve-new-paper.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  resolve:
+    if: github.event.head_commit.message == 'resolve new ScienceDirect paper metadata'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Resolve metadata and graphical abstract
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p .tmp-paper assets/images/publications
+
+          curl -L --fail --retry 3 --compressed \
+            -A "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/155 Safari/537.36" \
+            "https://www.sciencedirect.com/science/article/pii/S2215016126004383" \
+            -o .tmp-paper/article.html
+
+          python3 - <<'PY'
+          from pathlib import Path
+          import json, re, html as h
+
+          text=Path(".tmp-paper/article.html").read_text(errors="ignore")
+          metas={}
+          patterns=[
+            r'<meta\s+[^>]*?(?:name|property)=["\']([^"\']+)["\'][^>]*?content=["\']([^"\']*)["\'][^>]*>',
+            r'<meta\s+[^>]*?content=["\']([^"\']*)["\'][^>]*?(?:name|property)=["\']([^"\']+)["\'][^>]*>'
+          ]
+          for i,pat in enumerate(patterns):
+              for m in re.finditer(pat,text,re.I):
+                  k=h.unescape(m.group(1 if i==0 else 2)).strip()
+                  v=h.unescape(m.group(2 if i==0 else 1)).strip()
+                  metas.setdefault(k,[]).append(v)
+
+          keys=[
+              "citation_title","citation_author","citation_journal_title","citation_publication_date",
+              "citation_online_date","citation_volume","citation_issue","citation_firstpage","citation_lastpage",
+              "citation_doi","citation_pdf_url","dc.identifier","dc.title","dc.creator","dc.date"
+          ]
+          out={k:metas.get(k,[]) for k in keys if metas.get(k)}
+          out["page_title"] = re.findall(r'<title[^>]*>(.*?)</title>', text, re.I|re.S)[:1]
+          out["pii"]="S2215016126004383"
+          Path(".tmp-paper/metadata.json").write_text(json.dumps(out,indent=2,ensure_ascii=False))
+
+          urls=set()
+          for pat in [
+              r'https?://[^"\'<> ]+(?:ga1|graphical)[^"\'<> ]+',
+              r'https?://ars\.els-cdn\.com/content/image/[^"\'<> ]+',
+          ]:
+              for u in re.findall(pat,text,re.I):
+                  urls.add(h.unescape(u).replace("\\/","/"))
+          Path(".tmp-paper/candidate-urls.txt").write_text("\n".join(sorted(urls)))
+          print(Path(".tmp-paper/metadata.json").read_text())
+          print("\nCandidate image URLs:")
+          print(Path(".tmp-paper/candidate-urls.txt").read_text())
+          PY
+
+          curl -L --fail --retry 3 --compressed -A "Mozilla/5.0" \
+            "https://ars.els-cdn.com/content/image/1-s2.0-S2215016126004383-ga1_lrg.jpg" \
+            -o assets/images/publications/new-paper-graphical-abstract.jpg
+          file assets/images/publications/new-paper-graphical-abstract.jpg
+
+      - name: Preserve metadata and source asset
+        run: |
+          cp .tmp-paper/metadata.json assets/images/publications/new-paper-metadata.json
+          cp .tmp-paper/candidate-urls.txt assets/images/publications/new-paper-candidate-urls.txt
+          rm -f .github/workflows/resolve-new-paper.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/images/publications .github/workflows/resolve-new-paper.yml
+          git commit -m "stage new paper metadata and graphical abstract"
+          git push
