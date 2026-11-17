@@ -602,9 +602,25 @@ a {
 .research-animation-still {
   display: none;
 }
-@media (prefers-reduced-motion: reduce) {
-  .research-animation { display: none; }
-  .research-animation-still { display: block; }
+.research-concept-figure.is-paused .research-animation { display: none; }
+.research-concept-figure.is-paused .research-animation-still { display: block; }
+.research-motion-toggle {
+  border: 1px solid var(--line);
+  background: var(--paper);
+  color: var(--accent);
+  border-radius: .3rem;
+  cursor: pointer;
+  font: inherit;
+  font-size: .8rem;
+  font-weight: 650;
+  margin: .8rem auto 0;
+  padding: .35rem .8rem;
+}
+.research-motion-toggle[hidden] { display: none; }
+.research-motion-toggle:hover,
+.research-motion-toggle:focus-visible {
+  border-color: var(--accent);
+  background: var(--accent-soft);
 }
 @media (max-width: 700px) {
   .research-concept-figure { padding: .65rem; margin: 1.5rem 0 2rem; }

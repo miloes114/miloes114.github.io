@@ -50,29 +50,31 @@ Organisation, function and resilience describe related aspects of this process:
 
 ### The Hierarchical Stress Gradient Hypothesis (Hi-SGH)
 
-I am developing **Hi-SGH** as a testable framework for how biological organisation responds to environmental stress. It proposes that compensatory responses may initially increase coordination among processes. As pressure intensifies, maintaining this organisation may become more demanding and vulnerable, eventually leading to reduced coordination and functional deterioration.
+I am developing **Hi-SGH** as a testable framework within this research programme. It proposes that compensatory responses may initially increase coordination among biological processes. As pressure intensifies, maintaining that coordination may require more resources and eventually become less effective, with consequences for system function and resilience.
 
 Hi-SGH draws on ecological stress theory, thermodynamic perspectives on living systems and network theory. It generates predictions about changes in organisation, compensation and potential thresholds that can be tested across different biological systems.
 
 <figure class="research-concept-figure research-concept-figure--curve">
-  <img class="research-animation" src="assets/images/research/hi-sgh-stress-gradient.gif" alt="Original animated Hi-SGH curves showing possible changes in multilayer biological organisation and health as chemical stress increases." loading="lazy" decoding="async">
-  <img class="research-animation-still" src="assets/images/research/hi-sgh-stress-gradient-still.webp" alt="Static view of the conceptual Hi-SGH curves: organisation increases during compensation, then declines, while health follows a separate declining trajectory.">
-  <figcaption><strong>Hi-SGH: conceptual predictions.</strong> The animation illustrates a possible trajectory along increasing chemical stress. In TROPECO-OMICS, <em>Holobiont Multilayer Organisation</em> (HMO, blue) describes coordinated organisation across transcriptomic, proteomic, microbial and physiological layers; health (red) is evaluated separately. The curves illustrate testable relationships; their shapes and transition points remain empirical questions.</figcaption>
+  <img class="research-animation" src="assets/images/research/hi-sgh-stress-gradient.gif" alt="Animated conceptual Hi-SGH curves showing proposed changes in multilayer biological organisation and health along an increasing chemical-stress gradient." loading="eager">
+  <img class="research-animation-still" src="assets/images/research/hi-sgh-stress-gradient-still.webp" alt="Static view of the conceptual Hi-SGH curves: organisation rises during compensation and then declines as the separate health curve deteriorates.">
+  <button type="button" class="research-motion-toggle" data-play-label="Play animation" data-pause-label="Pause animation" hidden>Pause animation</button>
+  <figcaption><strong>Hi-SGH: conceptual predictions.</strong> The blue HMO curve (Holobiont Multilayer Organisation) illustrates one possible quantitative measure of biological coordination, informed by network theory and thermodynamic perspectives on living systems. The red curve represents health as a separate dimension. Their shapes and potential transition points are hypotheses to be tested across biological systems.</figcaption>
 </figure>
 
 ## Measuring biological organisation {#integrative-eco-omics}
 
-To study these questions, I combine measures of gene expression, proteins, microbial communities and physiological condition with environmental chemistry and ecological information. **Network analysis and integrative eco-omics** help quantify how biological processes relate to one another, which connections change, and how coordination varies along environmental gradients.
+To study these questions, I combine gene-expression data, protein measurements, microbial communities and physiology with environmental chemistry and ecological information. **Network analysis and integrative eco-omics** help reveal which processes act together, how their relationships change along environmental gradients and how these changes relate to system condition. At other biological scales, comparable questions can be explored through ecological interaction and community networks.
 
 A fish and its associated microorganisms form one example of a **holobiont**: interacting host and microbial components whose responses can be studied together. The same research logic can be applied to other organisms, biological communities and ecological networks.
 
 <figure class="research-concept-figure research-concept-figure--fish">
-  <img class="research-animation" src="assets/images/research/reef-fish-holobiont.gif" alt="Original animated reef-fish holobiont illustration showing connections among RNA, proteins and the microbiome." loading="lazy" decoding="async">
+  <img class="research-animation" src="assets/images/research/reef-fish-holobiont.gif" alt="Animated reef fish illustrating connections among RNA, proteins and the microbiome." loading="eager">
   <img class="research-animation-still" src="assets/images/research/reef-fish-holobiont-still.webp" alt="Illustrated reef fish with labels for RNA, proteins and microbiome, showing connected molecular and microbial components.">
-  <figcaption><strong>An integrated biological system.</strong> A reef fish illustrates how molecular processes and host-associated microorganisms can be studied together. The changing network patterns are conceptual and depict possible forms of biological reorganisation.</figcaption>
+  <button type="button" class="research-motion-toggle" data-play-label="Play animation" data-pause-label="Pause animation" hidden>Pause animation</button>
+  <figcaption><strong>An integrated biological system.</strong> This reef fish is an example of studying interacting molecular processes and host-associated microorganisms together. The animated networks illustrate possible patterns of organisation; the underlying research questions extend to communities and ecosystems.</figcaption>
 </figure>
 
-In **TROPECO-OMICS**, I propose to operationalise Holobiont Multilayer Organisation (HMO) through within-layer network measures and agreement across molecular, microbial and physiological datasets. System condition is assessed separately through health and performance indicators. Network metrics make aspects of organisation measurable; they are complementary to the thermodynamic ideas that motivate the wider programme.
+Across my research programme, I am developing ways to quantify organisation using network connectivity, modularity, redundancy and coordination within and among biological processes. These metrics offer practical ways to examine patterns suggested by network theory, while thermodynamic perspectives help frame how living systems maintain organised states through energy and matter exchange. Independent measures of physiological condition, performance and ecological functioning help relate these patterns to health and resilience.
 
 ## From theory to ecological evidence
 
@@ -80,8 +82,10 @@ My research has grown from **field ecology and aquatic biodiversity assessment**
 
 I develop reproducible computational resources that preserve the connection between molecular results and their biological interpretation. [EchoGO](https://github.com/miloes114/EchoGo), described in [*MethodsX*](https://doi.org/10.1016/j.mex.2026.104222), supports traceable functional interpretation of transcriptomic data, especially for non-model organisms.
 
-**TROPECO-OMICS** provides a proposed application of Hi-SGH to tropical freshwater fish holobionts, combining chemical exposure, molecular and microbial networks, physiological endpoints and independent health assessments. My broader interests also extend to coastal systems, including reef-associated organisms and the effects of environmental change on biodiversity and ecosystem functioning.
+This programme is already developing through my published studies, ongoing analyses of environmental stress responses, reproducible computational tools and interdisciplinary research proposals. These activities connect field observations with quantitative approaches to biological organisation and system condition. I am extending these questions across freshwater and marine settings, including tropical aquatic and reef-associated systems, to examine how general principles vary with ecological context and biological scale.
 
 The long-term aim of **Environmental Stress Systems Ecology** is to develop and test transferable ways to connect environmental exposure, biological organisation, system function and ecological resilience.
 
 [Explore research projects](projects.qmd) · [Selected publications](publications.qmd) · [Academic CV](https://camiloescobarsierra.com/miloes114-academic-cv/Camilo_Escobar_Sierra_Academic_CV.pdf)
+
+<script defer src="/assets/js/research-motion.js"></script>

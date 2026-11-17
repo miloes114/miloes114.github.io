@@ -51,29 +51,31 @@ Organización, función y resiliencia describen aspectos relacionados de este pr
 
 ### La hipótesis jerárquica del gradiente de estrés (Hi-SGH)
 
-Estoy desarrollando **Hi-SGH** como un marco comprobable para investigar cómo responde la organización biológica al estrés ambiental. La hipótesis propone que las respuestas compensatorias pueden aumentar inicialmente la coordinación entre procesos. A medida que aumenta la presión, mantener esa organización podría resultar cada vez más exigente y vulnerable, hasta dar paso a una reducción de la coordinación y al deterioro funcional.
+Estoy desarrollando **Hi-SGH** como un marco comprobable dentro de este programa de investigación. La hipótesis propone que las respuestas compensatorias pueden aumentar inicialmente la coordinación entre procesos biológicos. A medida que aumenta la presión, mantener esa coordinación puede exigir más recursos y llegar a ser menos eficaz, con consecuencias para el funcionamiento y la resiliencia del sistema.
 
 Hi-SGH se apoya en la teoría ecológica del estrés, las perspectivas termodinámicas sobre los sistemas vivos y la teoría de redes. Plantea predicciones sobre cambios en la organización, la compensación y posibles umbrales que pueden ponerse a prueba en distintos sistemas biológicos.
 
 <figure class="research-concept-figure research-concept-figure--curve">
-  <img class="research-animation" src="../assets/images/research/hi-sgh-stress-gradient.gif" alt="Animación original de Hi-SGH que muestra posibles cambios de la organización biológica multicapa y la salud a lo largo de un gradiente de estrés químico." loading="lazy" decoding="async">
-  <img class="research-animation-still" src="../assets/images/research/hi-sgh-stress-gradient-still.webp" alt="Imagen estática de las curvas conceptuales de Hi-SGH: la organización crece durante la compensación y después disminuye, mientras la salud presenta una trayectoria independiente de deterioro.">
-  <figcaption><strong>Hi-SGH: predicciones conceptuales.</strong> La animación ilustra una posible trayectoria a lo largo de un gradiente creciente de estrés químico. En TROPECO-OMICS, la <em>organización multicapa del holobionte</em> (HMO, azul) describe la coordinación entre capas transcriptómicas, proteómicas, microbianas y fisiológicas; la salud (rojo) se evalúa de manera independiente. Las curvas ilustran relaciones comprobables; sus formas y puntos de transición son preguntas que deben resolverse empíricamente.</figcaption>
+  <img class="research-animation" src="../assets/images/research/hi-sgh-stress-gradient.gif" alt="Curvas animadas y conceptuales de Hi-SGH que ilustran posibles cambios de la organización biológica multicapa y la salud ante un aumento del estrés químico." loading="eager">
+  <img class="research-animation-still" src="../assets/images/research/hi-sgh-stress-gradient-still.webp" alt="Imagen estática de Hi-SGH: la organización aumenta durante la compensación y después disminuye, mientras la curva independiente de salud muestra deterioro.">
+  <button type="button" class="research-motion-toggle" data-play-label="Reproducir animación" data-pause-label="Pausar animación" hidden>Pausar animación</button>
+  <figcaption><strong>Hi-SGH: predicciones conceptuales.</strong> La curva azul HMO (organización multicapa del holobionte) ilustra una posible medida cuantitativa de coordinación biológica, inspirada en la teoría de redes y en perspectivas termodinámicas sobre los sistemas vivos. La curva roja representa la salud como una dimensión independiente. Sus formas y posibles puntos de transición son hipótesis que se pueden evaluar en distintos sistemas biológicos.</figcaption>
 </figure>
 
 ## Medición de la organización biológica {#integrative-eco-omics}
 
-Para abordar estas preguntas, integro mediciones de expresión génica, proteínas, comunidades microbianas y condición fisiológica con química ambiental e información ecológica. **El análisis de redes y las eco-ómicas integrativas** permiten cuantificar cómo se relacionan los procesos biológicos, qué conexiones cambian y cómo varía su coordinación a lo largo de gradientes ambientales.
+Para abordar estas preguntas, integro datos de expresión génica, mediciones de proteínas, comunidades microbianas y fisiología con química ambiental e información ecológica. **El análisis de redes y las eco-ómicas integrativas** ayudan a identificar qué procesos actúan de forma coordinada, cómo cambian sus relaciones a lo largo de gradientes ambientales y cómo se vinculan estos cambios con la condición del sistema. A otras escalas, se pueden explorar preguntas comparables mediante redes de interacción ecológica y de comunidades.
 
 Un pez y sus microorganismos asociados constituyen un ejemplo de **holobionte**: componentes del hospedador y de sus comunidades microbianas que interactúan y pueden estudiarse conjuntamente. La misma lógica de investigación puede aplicarse a otros organismos, comunidades biológicas y redes ecológicas.
 
 <figure class="research-concept-figure research-concept-figure--fish">
-  <img class="research-animation" src="../assets/images/research/reef-fish-holobiont.gif" alt="Animación original del holobionte de un pez de arrecife que ilustra conexiones entre ARN, proteínas y microbioma." loading="lazy" decoding="async">
+  <img class="research-animation" src="../assets/images/research/reef-fish-holobiont.gif" alt="Pez de arrecife animado que ilustra conexiones entre ARN, proteínas y microbioma." loading="eager">
   <img class="research-animation-still" src="../assets/images/research/reef-fish-holobiont-still.webp" alt="Ilustración de un pez de arrecife con ARN, proteínas y microbioma, mostrando componentes moleculares y microbianos conectados.">
-  <figcaption><strong>Un sistema biológico integrado.</strong> Un pez de arrecife ilustra cómo pueden estudiarse conjuntamente los procesos moleculares y los microorganismos asociados al hospedador. Los patrones cambiantes de redes son conceptuales y representan posibles formas de reorganización biológica.</figcaption>
+  <button type="button" class="research-motion-toggle" data-play-label="Reproducir animación" data-pause-label="Pausar animación" hidden>Pausar animación</button>
+  <figcaption><strong>Un sistema biológico integrado.</strong> Este pez de arrecife ejemplifica cómo pueden estudiarse conjuntamente los procesos moleculares y los microorganismos asociados al hospedador. Las redes animadas muestran posibles patrones de organización; las preguntas del programa también abarcan comunidades y ecosistemas.</figcaption>
 </figure>
 
-En **TROPECO-OMICS**, propongo medir la organización multicapa del holobionte (HMO) mediante propiedades de las redes dentro de cada capa y la concordancia entre datos moleculares, microbianos y fisiológicos. La condición del sistema se evalúa por separado mediante indicadores de salud y desempeño. Las métricas de redes permiten cuantificar aspectos de la organización y complementan las ideas termodinámicas que motivan el programa más amplio.
+En mi programa de investigación desarrollo formas de cuantificar la organización mediante conectividad, modularidad, redundancia y coordinación dentro de los procesos biológicos y entre ellos. Estas métricas permiten estudiar patrones propuestos desde la teoría de redes, mientras que las perspectivas termodinámicas ayudan a comprender cómo los sistemas vivos mantienen estados organizados mediante intercambios de energía y materia. Las medidas independientes de condición fisiológica, desempeño y funcionamiento ecológico permiten relacionar estos patrones con la salud y la resiliencia.
 
 ## De la teoría a la evidencia ecológica
 
@@ -81,8 +83,10 @@ Mi trayectoria ha evolucionado desde **la ecología de campo y la evaluación de
 
 Desarrollo recursos computacionales reproducibles que conservan el vínculo entre los resultados moleculares y su interpretación biológica. [EchoGO](https://github.com/miloes114/EchoGo), presentado en [*MethodsX*](https://doi.org/10.1016/j.mex.2026.104222), facilita la interpretación funcional trazable de datos transcriptómicos, especialmente en organismos no modelo.
 
-**TROPECO-OMICS** ofrece una aplicación propuesta de Hi-SGH a holobiontes de peces tropicales de agua dulce mediante la integración de exposición química, redes moleculares y microbianas, variables fisiológicas y evaluaciones independientes de salud. Mis intereses también abarcan los sistemas costeros, incluidos los organismos de arrecife y los efectos del cambio ambiental sobre la biodiversidad y el funcionamiento de los ecosistemas.
+Este programa ya se desarrolla mediante mis estudios publicados, análisis en curso sobre respuestas al estrés ambiental, herramientas computacionales reproducibles y propuestas de investigación interdisciplinaria. Estas actividades conectan observaciones de campo con enfoques cuantitativos sobre organización biológica y condición de los sistemas. Estoy ampliando estas preguntas a ambientes de agua dulce y marinos, incluidos sistemas acuáticos tropicales y de arrecife, para estudiar cómo varían los principios generales según el contexto ecológico y la escala biológica.
 
 El objetivo a largo plazo de **Environmental Stress Systems Ecology** es desarrollar y poner a prueba enfoques transferibles que relacionen la exposición ambiental, la organización biológica, el funcionamiento de los sistemas y la resiliencia ecológica.
 
 [Explorar proyectos](projects.qmd) · [Publicaciones seleccionadas](publications.qmd) · [CV académico](https://camiloescobarsierra.com/miloes114-academic-cv/Camilo_Escobar_Sierra_Academic_CV.pdf)
+
+<script defer src="/assets/js/research-motion.js"></script>
