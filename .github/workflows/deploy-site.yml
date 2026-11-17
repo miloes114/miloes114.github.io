@@ -55,8 +55,8 @@ jobs:
           test -s _site/es/projects.html
           test -s _site/es/publications.html
           test -s _site/es/about.html
-          test -s _site/assets/images/research/hi-sgh-stress-gradient.mp4
-          test -s _site/assets/images/research/reef-fish-holobiont.mp4
+          test -s _site/assets/images/research/hi-sgh-stress-gradient.gif
+          test -s _site/assets/images/research/reef-fish-holobiont.gif
           test -s _site/assets/images/research/hi-sgh-stress-gradient-still.webp
           test -s _site/assets/images/research/reef-fish-holobiont-still.webp
 

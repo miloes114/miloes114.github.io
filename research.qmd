@@ -55,9 +55,7 @@ I am developing **Hi-SGH** as a testable framework for how biological organisati
 Hi-SGH draws on ecological stress theory, thermodynamic perspectives on living systems and network theory. It generates predictions about changes in organisation, compensation and potential thresholds that can be tested across different biological systems.
 
 <figure class="research-concept-figure research-concept-figure--curve">
-  <video class="research-animation" autoplay muted loop playsinline preload="metadata" poster="assets/images/research/hi-sgh-stress-gradient-still.webp" aria-label="Conceptual Hi-SGH animation showing a rise and subsequent decline in biological organisation alongside a separate health trajectory across an increasing chemical stress gradient.">
-    <source src="assets/images/research/hi-sgh-stress-gradient.mp4" type="video/mp4">
-  </video>
+  <img class="research-animation" src="assets/images/research/hi-sgh-stress-gradient.gif" alt="Original animated Hi-SGH curves showing possible changes in multilayer biological organisation and health as chemical stress increases." loading="lazy" decoding="async">
   <img class="research-animation-still" src="assets/images/research/hi-sgh-stress-gradient-still.webp" alt="Static view of the conceptual Hi-SGH curves: organisation increases during compensation, then declines, while health follows a separate declining trajectory.">
   <figcaption><strong>Hi-SGH: conceptual predictions.</strong> The animation illustrates a possible trajectory along increasing chemical stress. In TROPECO-OMICS, <em>Holobiont Multilayer Organisation</em> (HMO, blue) describes coordinated organisation across transcriptomic, proteomic, microbial and physiological layers; health (red) is evaluated separately. The curves illustrate testable relationships; their shapes and transition points remain empirical questions.</figcaption>
 </figure>
@@ -69,9 +67,7 @@ To study these questions, I combine measures of gene expression, proteins, micro
 A fish and its associated microorganisms form one example of a **holobiont**: interacting host and microbial components whose responses can be studied together. The same research logic can be applied to other organisms, biological communities and ecological networks.
 
 <figure class="research-concept-figure research-concept-figure--fish">
-  <video class="research-animation" autoplay muted loop playsinline preload="metadata" poster="assets/images/research/reef-fish-holobiont-still.webp" aria-label="Animated reef fish illustrating RNA, protein and microbiome interactions around a host organism.">
-    <source src="assets/images/research/reef-fish-holobiont.mp4" type="video/mp4">
-  </video>
+  <img class="research-animation" src="assets/images/research/reef-fish-holobiont.gif" alt="Original animated reef-fish holobiont illustration showing connections among RNA, proteins and the microbiome." loading="lazy" decoding="async">
   <img class="research-animation-still" src="assets/images/research/reef-fish-holobiont-still.webp" alt="Illustrated reef fish with labels for RNA, proteins and microbiome, showing connected molecular and microbial components.">
   <figcaption><strong>An integrated biological system.</strong> A reef fish illustrates how molecular processes and host-associated microorganisms can be studied together. The changing network patterns are conceptual and depict possible forms of biological reorganisation.</figcaption>
 </figure>
