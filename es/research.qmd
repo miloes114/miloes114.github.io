@@ -60,7 +60,7 @@ Hi-SGH se apoya en la teoría ecológica del estrés, las perspectivas termodin�
     <source src="../assets/images/research/hi-sgh-stress-gradient.mp4" type="video/mp4">
   </video>
   <img class="research-animation-still" src="../assets/images/research/hi-sgh-stress-gradient-still.webp" alt="Imagen estática de las curvas conceptuales de Hi-SGH: la organización crece durante la compensación y después disminuye, mientras la salud presenta una trayectoria independiente de deterioro.">
-  <figcaption><strong>Hi-SGH: predicciones conceptuales.</strong> La animación ilustra una posible trayectoria a lo largo de un gradiente creciente de estrés químico. En TROPECO-OMICS, la <em>organización multicapa del holobionte</em> (HMO, azul) describe la coordinación entre capas transcriptómicas, proteómicas, microbianas y fisiológicas; la salud (rojo) se evalúa de manera independiente. Las curvas son hipótesis para poner a prueba, sin representar trayectorias observadas ni umbrales universales.</figcaption>
+  <figcaption><strong>Hi-SGH: predicciones conceptuales.</strong> La animación ilustra una posible trayectoria a lo largo de un gradiente creciente de estrés químico. En TROPECO-OMICS, la <em>organización multicapa del holobionte</em> (HMO, azul) describe la coordinación entre capas transcriptómicas, proteómicas, microbianas y fisiológicas; la salud (rojo) se evalúa de manera independiente. Las curvas ilustran relaciones comprobables; sus formas y puntos de transición son preguntas que deben resolverse empíricamente.</figcaption>
 </figure>
 
 ## Medición de la organización biológica {#integrative-eco-omics}

@@ -59,7 +59,7 @@ Hi-SGH draws on ecological stress theory, thermodynamic perspectives on living s
     <source src="assets/images/research/hi-sgh-stress-gradient.mp4" type="video/mp4">
   </video>
   <img class="research-animation-still" src="assets/images/research/hi-sgh-stress-gradient-still.webp" alt="Static view of the conceptual Hi-SGH curves: organisation increases during compensation, then declines, while health follows a separate declining trajectory.">
-  <figcaption><strong>Hi-SGH: conceptual predictions.</strong> The animation illustrates a possible trajectory along increasing chemical stress. In TROPECO-OMICS, <em>Holobiont Multilayer Organisation</em> (HMO, blue) describes coordinated organisation across transcriptomic, proteomic, microbial and physiological layers; health (red) is evaluated separately. The curves are hypotheses for empirical testing, not observed trajectories or universal thresholds.</figcaption>
+  <figcaption><strong>Hi-SGH: conceptual predictions.</strong> The animation illustrates a possible trajectory along increasing chemical stress. In TROPECO-OMICS, <em>Holobiont Multilayer Organisation</em> (HMO, blue) describes coordinated organisation across transcriptomic, proteomic, microbial and physiological layers; health (red) is evaluated separately. The curves illustrate testable relationships; their shapes and transition points remain empirical questions.</figcaption>
 </figure>
 
 ## Measuring biological organisation {#integrative-eco-omics}

@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - "assets/**"
   render:
     - index.qmd
     - research.qmd
@@ -15,7 +17,7 @@ project:
 website:
   title: "Camilo Escobar-Sierra"
   site-url: "https://camiloescobarsierra.com"
-  description: "Molecular ecology, environmental stress biology, systems ecology, and integrative eco-omics."
+  description: "Environmental Stress Systems Ecology: studying biological organisation, function and resilience across environmental gradients."
   navbar:
     left:
       - href: index.qmd
