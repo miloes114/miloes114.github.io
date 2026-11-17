@@ -291,7 +291,6 @@ p {
   position: relative;
 }
 
-.programme-map li:not(:last-child)::after,
 .stress-gradient-map li:not(:last-child)::after {
   color: var(--accent);
   content: "→";
@@ -419,7 +418,6 @@ a {
     grid-template-columns: 1fr;
   }
 
-  .programme-map li:not(:last-child)::after,
   .stress-gradient-map li:not(:last-child)::after {
     bottom: -1.2rem;
     content: "↓";

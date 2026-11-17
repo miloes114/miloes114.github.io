@@ -75,15 +75,15 @@ Across these questions, I develop reproducible workflows and resources for compl
 ::: {.research-programme-map role="group" aria-labelledby="research-programme-title"}
 ### A conceptual map of the research programme {#research-programme-title}
 
-The map follows how I connect environmental gradients with biological responses, cross-layer organisation, resilience and ecological consequences.
+These five dimensions connect environmental pressures, biological processes and their consequences. Their relationships can vary among systems, rather than following one fixed sequence.
 
-<ol class="programme-map" aria-label="Conceptual organisation of the research programme">
-  <li><strong>Environmental stressors &amp; gradients</strong><span>Field ecology · environmental chemistry</span></li>
-  <li><strong>Molecular, microbial &amp; physiological responses</strong><span>Transcriptomics · microbiome · physiology</span></li>
-  <li><strong>Cross-layer biological organisation</strong><span>Multi-omics · networks · coordination</span></li>
-  <li><strong>Compensation &amp; resilience</strong><span>Buffering · thresholds · performance</span></li>
-  <li><strong>Ecological consequences</strong><span>Organismal condition · ecological interpretation</span></li>
-</ol>
+<ul class="programme-map" aria-label="Connected dimensions of the research programme">
+  <li><strong>Environmental stress</strong><span>Field gradients · environmental chemistry</span></li>
+  <li><strong>Biological responses</strong><span>Molecular · microbial · physiological processes</span></li>
+  <li><strong>Organisation</strong><span>Networks · coordination · structure</span></li>
+  <li><strong>Function &amp; health</strong><span>Physiological condition · performance</span></li>
+  <li><strong>Resilience &amp; ecological outcomes</strong><span>Persistence · recovery · ecological change</span></li>
+</ul>
 :::
 
 ---
@@ -106,8 +106,8 @@ A reproducible research compendium linking micropollutant gradients with transcr
 :::
 
 ::: {.project-mini}
-**Emerging research programme**  
-Integrating molecular, microbial, physiological and ecological information to study biological organisation, compensation and resilience loss under environmental stress.
+**Biological organisation and resilience**  
+Connecting established field and molecular evidence with ongoing analyses to develop testable questions about organisation, compensation and resilience under environmental stress.
 
 [Research vision](research.qmd#biological-organisation-and-resilience)
 :::

@@ -7,7 +7,7 @@ header-includes:
   - '<link rel="alternate" hreflang="x-default" href="https://camiloescobarsierra.com/publications.html">'
 ---
 
-These selected outputs show how field ecology, environmental stress biology and molecular approaches have developed into questions about biological organisation and resilience.
+These selected publications provide the empirical and methodological foundations of my research programme, connecting field ecology, environmental stress biology, molecular responses and reproducible analysis with broader questions about biological organisation, function and resilience.
 
 ## Selected peer-reviewed publications
 

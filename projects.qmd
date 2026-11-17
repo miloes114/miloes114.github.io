@@ -83,16 +83,16 @@ zebrafish · RNA-seq · DESeq2 · functional genomics
 :::
 :::
 
-## Emerging programme
+## Research projects in development
 ::: {.project-grid}
 ::: {.project-card}
-### TROPECO-OMICS / Hi-SGH
+### TROPECO-OMICS
 
-**Question:** How does biological coordination change as environmental stress increases, and when might compensation give way to loss of resilience?
+**Research question:** How does environmental stress influence multilayer biological organisation and health in tropical freshwater fish holobionts?
 
 **Status:** Proposal under evaluation.
 
-**Programme link:** Hi-SGH provides a testable framework for studying cross-layer coordination, compensation and resilience along real-world stress gradients.
+**Programme connection:** A proposed empirical application of Environmental Stress Systems Ecology, integrating environmental chemistry, molecular and microbial networks, physiological responses and organismal health.
 
 multi-omics · holobiont · field gradients · resilience · systems ecology
 :::

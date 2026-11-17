@@ -84,16 +84,16 @@ pez cebra · RNA-seq · DESeq2 · genómica funcional
 :::
 :::
 
-## Programa emergente
+## Proyectos de investigación en desarrollo
 ::: {.project-grid}
 ::: {.project-card}
-### TROPECO-OMICS / Hi-SGH
+### TROPECO-OMICS
 
-**Pregunta:** ¿Cómo cambia la coordinación biológica a medida que aumenta el estrés ambiental y cuándo puede la compensación dar paso a una pérdida de resiliencia?
+**Pregunta de investigación:** ¿Cómo influye el estrés ambiental en la organización biológica multicapa y la salud de holobiontes de peces tropicales de agua dulce?
 
 **Estado:** Propuesta en evaluación.
 
-**Vínculo con el programa:** Hi-SGH proporciona un marco comprobable para estudiar coordinación entre capas, compensación y resiliencia a lo largo de gradientes de estrés en condiciones reales.
+**Conexión con el programa:** Una aplicación empírica propuesta de Environmental Stress Systems Ecology, que integra química ambiental, redes moleculares y microbianas, respuestas fisiológicas y salud de los organismos.
 
 multi-ómicas · holobionte · gradientes de campo · resiliencia · ecología de sistemas
 :::

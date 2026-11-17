@@ -8,7 +8,7 @@ header-includes:
   - '<link rel="alternate" hreflang="x-default" href="https://camiloescobarsierra.com/publications.html">'
 ---
 
-Estos trabajos muestran cómo la ecología de campo, la biología del estrés ambiental y los enfoques moleculares han ido convergiendo hacia preguntas sobre organización biológica y resiliencia.
+Estas publicaciones seleccionadas aportan las bases empíricas y metodológicas de mi programa de investigación y conectan la ecología de campo, la biología del estrés ambiental, las respuestas moleculares y el análisis reproducible con preguntas más amplias sobre organización biológica, función y resiliencia.
 
 ## Publicaciones seleccionadas revisadas por pares
 

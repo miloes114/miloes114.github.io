@@ -76,15 +76,15 @@ A través de estas preguntas desarrollo flujos de trabajo y recursos reproducibl
 ::: {.research-programme-map role="group" aria-labelledby="research-programme-title-es"}
 ### Un mapa conceptual del programa de investigación {#research-programme-title-es}
 
-El mapa resume cómo conecto los gradientes ambientales con las respuestas biológicas, la organización entre capas, la resiliencia y las consecuencias ecológicas.
+Estas cinco dimensiones relacionan las presiones ambientales, los procesos biológicos y sus consecuencias. Sus relaciones pueden variar entre sistemas, sin seguir una única secuencia fija.
 
-<ol class="programme-map" aria-label="Organización conceptual del programa de investigación">
-  <li><strong>Estresores y gradientes ambientales</strong><span>Ecología de campo · química ambiental</span></li>
-  <li><strong>Respuestas moleculares, microbianas y fisiológicas</strong><span>Transcriptómica · microbioma · fisiología</span></li>
-  <li><strong>Organización biológica entre capas</strong><span>Multi-ómicas · redes · coordinación</span></li>
-  <li><strong>Compensación y resiliencia</strong><span>Amortiguación · umbrales · desempeño</span></li>
-  <li><strong>Consecuencias ecológicas</strong><span>Condición del organismo · interpretación ecológica</span></li>
-</ol>
+<ul class="programme-map" aria-label="Dimensiones conectadas del programa de investigación">
+  <li><strong>Estrés ambiental</strong><span>Gradientes de campo · química ambiental</span></li>
+  <li><strong>Respuestas biológicas</strong><span>Procesos moleculares · microbianos · fisiológicos</span></li>
+  <li><strong>Organización</strong><span>Redes · coordinación · estructura</span></li>
+  <li><strong>Función y salud</strong><span>Condición fisiológica · desempeño</span></li>
+  <li><strong>Resiliencia y consecuencias ecológicas</strong><span>Persistencia · recuperación · cambio ecológico</span></li>
+</ul>
 :::
 
 ---
@@ -107,8 +107,8 @@ Un compendio reproducible que conecta gradientes de micropoluentes con respuesta
 :::
 
 ::: {.project-mini}
-**Programa de investigación emergente**  
-Integración de información molecular, microbiana, fisiológica y ecológica para estudiar organización biológica, compensación y pérdida de resiliencia bajo estrés ambiental.
+**Organización biológica y resiliencia**  
+Conecto evidencia de campo y molecular con análisis en curso para desarrollar preguntas comprobables sobre organización, compensación y resiliencia bajo estrés ambiental.
 
 [Programa de investigación](research.qmd#biological-organisation-and-resilience)
 :::
