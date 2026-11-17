@@ -47,7 +47,7 @@ En conjunto, estas dimensiones estructuran mi programa de investigación.
 ::: {.research-card}
 ### Estrés ambiental en condiciones reales
 
-Los gradientes de campo y las exposiciones ambientalmente realistas permiten estudiar cómo las mezclas químicas, la salinización y otras presiones concurrentes afectan a los organismos dentro de su complejidad ecológica.
+Los gradientes de campo permiten estudiar cómo las mezclas químicas, la salinización y las condiciones ambientales cambiantes afectan a los sistemas vivos en su contexto ecológico.
 
 [Leer más →](research.qmd#real-world-environmental-stress)
 :::
@@ -55,15 +55,15 @@ Los gradientes de campo y las exposiciones ambientalmente realistas permiten est
 ::: {.research-card}
 ### Organización biológica y resiliencia
 
-Estudio cómo el estrés modifica la coordinación entre capas moleculares, microbianas, fisiológicas y del organismo, y dónde las respuestas compensatorias empiezan a perder su capacidad de mantener el funcionamiento biológico.
+Estudio cómo el estrés modifica la organización de los procesos biológicos, cómo se mantiene la compensación y qué implican estos cambios para el funcionamiento y la resiliencia.
 
 [Leer más →](research.qmd#biological-organisation-and-resilience)
 :::
 
 ::: {.research-card}
-### Eco-ómicas integrativas
+### Medición de la organización biológica
 
-Integro cada vez más la transcriptómica con información de microbioma, metagenómica, proteómica, genómica, fisiología y ecología para interpretar respuestas a través de distintas capas biológicas.
+Integro evidencia molecular, microbiana, fisiológica y ecológica con análisis de redes para estudiar cómo se conectan y coordinan los componentes biológicos.
 
 [Leer más →](research.qmd#integrative-eco-omics)
 :::
