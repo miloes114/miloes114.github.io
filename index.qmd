@@ -10,11 +10,13 @@ header-includes:
 
 ::: {.hero}
 ::: {.hero-copy}
+<p class="programme-kicker">Environmental Stress Systems Ecology</p>
+
 ## Understanding biological organisation and resilience under environmental stress
 
-My research asks how environmental stress affects biological systems from molecular responses to organismal performance and ecological change, and when adaptive responses begin to fail.
+Living systems sustain their functions through interactions among biological components. I study how environmental stress changes that organisation, and what these changes mean for system function and resilience.
 
-I combine field-realistic environmental gradients with molecular ecology, integrative eco-omics and computational approaches to connect biological mechanisms with organismal performance and ecological consequences. I work primarily with aquatic organisms, communities and holobionts.
+My approach brings together field ecology, molecular biology and computational methods. Aquatic organisms, communities and ecosystems provide a strong empirical foundation for questions that extend across biological scales.
 
 [Explore the research](research.qmd){.btn .btn-primary}
 [Academic CV](https://camiloescobarsierra.com/miloes114-academic-cv/Camilo_Escobar_Sierra_Academic_CV.pdf){.btn .btn-outline-secondary}
@@ -44,7 +46,7 @@ Together, these dimensions frame my research programme.
 ::: {.research-card}
 ### Real-world environmental stress
 
-Field gradients and environmentally realistic exposures help reveal how chemical mixtures, salinisation and other co-occurring pressures affect organisms under ecological complexity.
+Field gradients reveal how chemical mixtures, salinisation and changing environmental conditions affect living systems in their ecological context.
 
 [Read more →](research.qmd#real-world-environmental-stress)
 :::
@@ -52,15 +54,15 @@ Field gradients and environmentally realistic exposures help reveal how chemical
 ::: {.research-card}
 ### Biological organisation and resilience
 
-I ask how stress changes coordination among molecular, microbial, physiological and organismal layers, and where compensatory responses begin to fail.
+I study how stress changes the organisation of biological processes, how compensation is maintained, and what these changes mean for function and resilience.
 
 [Read more →](research.qmd#biological-organisation-and-resilience)
 :::
 
 ::: {.research-card}
-### Integrative eco-omics
+### Measuring biological organisation
 
-I increasingly connect transcriptomics with microbiome, metagenomic, proteomic, genomic, physiological and ecological information to interpret responses across biological layers.
+I bring together molecular, microbial, physiological and ecological evidence with network analysis to examine how biological components are connected and coordinated.
 
 [Read more →](research.qmd#integrative-eco-omics)
 :::

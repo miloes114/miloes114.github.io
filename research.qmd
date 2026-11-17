@@ -1,15 +1,19 @@
 ---
 title: "Research"
-subtitle: "From environmental exposure to biological organisation and resilience"
+subtitle: "Environmental Stress Systems Ecology · Biological organisation, function and resilience"
 header-includes:
   - '<link rel="alternate" hreflang="en" href="https://camiloescobarsierra.com/research.html">'
   - '<link rel="alternate" hreflang="es" href="https://camiloescobarsierra.com/es/research.html">'
   - '<link rel="alternate" hreflang="x-default" href="https://camiloescobarsierra.com/research.html">'
 ---
 
-My research lies at the interface of **molecular ecology, environmental stress biology, systems ecology and integrative eco-omics**. I study how environmental stress affects biological systems from molecular responses to organismal performance and ecological change, and when adaptive responses begin to fail.
+## Environmental Stress Systems Ecology
 
-I work primarily with aquatic organisms, communities and holobionts. Field-realistic environmental gradients provide the empirical foundation for questions that I increasingly address across molecular, microbial, physiological and ecological layers.
+Living systems maintain their functions through interactions among biological components, from molecular networks and cellular processes to organisms, communities and ecosystems. Environmental stress can change these interactions and the resources needed to sustain them.
+
+My research investigates **how biological organisation changes along environmental stress gradients**, how these changes influence system function, and under which conditions they support resilience or contribute to deterioration. I combine molecular ecology, environmental ecotoxicology, systems biology and computational approaches. Aquatic environments provide much of the empirical foundation for my work, while the underlying questions extend across biological systems and scales.
+
+**My central question:** How does environmental stress reshape biological organisation across scales, and how do these changes influence the function and resilience of living systems?
 
 ::: {.photo-strip .research-photo-strip}
 ::: {.photo-strip-item .photo-strip-item--boat}
@@ -28,71 +32,60 @@ I work primarily with aquatic organisms, communities and holobionts. Field-reali
 :::
 :::
 
-## Real-world environmental stress
+## Environmental stress and living systems {#real-world-environmental-stress}
 
-Organisms in nature encounter mixtures of chemical and non-chemical stressors that vary through space and time. I use **field gradients and environmentally realistic exposure scenarios** to study these responses under ecological complexity.
+Natural environments expose biological systems to changing conditions, including chemical mixtures, salinisation, temperature shifts and other pressures that interact across space and time. Rivers and coastal ecosystems provide opportunities to observe these pressures under realistic conditions.
 
-My doctoral work focused on freshwater fish exposed to multiple anthropogenic stressors in urban rivers. This included field-based de novo transcriptomics and comparative multi-tissue RNA-seq to resolve molecular responses to freshwater salinisation and complex environmental conditions.
+My work with wild fish and freshwater amphipods has linked environmental gradients with changes in gene activity and biological pathways. Field-based transcriptomics, tissue comparisons and environmental chemistry reveal how responses vary among organisms, tissues and sites. These observations help formulate hypotheses about the processes that allow biological systems to function under stress.
 
-More recently, I have expanded this work to freshwater macroinvertebrates and other vertebrate systems, linking environmental chemistry with molecular response patterns and reproducible ecotoxicogenomic analysis.
+## Biological organisation and resilience {#biological-organisation-and-resilience}
 
-Across these studies, I ask **which biological processes respond, how responses differ among tissues or taxa, and what those responses imply about organismal condition and ecological risk**.
+Biological organisation describes **how components of a living system are connected, coordinated and arranged**. From a thermodynamic perspective, maintaining organised states requires ongoing exchanges of energy and matter. From a network perspective, we can investigate organisation through patterns of connectivity, modularity, redundancy and coordination among components. These complementary perspectives help us understand how living systems maintain and reorganise their functions.
 
-## Biological organisation and resilience
+Organisation, function and resilience describe related aspects of this process:
 
-My emerging research programme focuses on **biological organisation and resilience under environmental stress**. I am interested in how stress changes coordination among molecular, microbial, physiological and organismal layers, and where compensatory responses begin to lose their capacity to maintain biological performance.
+- **Organisation:** the structure and coordination of biological components and processes.
+- **Function:** the activities and performance sustained by the system.
+- **Resilience:** its capacity to maintain or recover essential functions under disturbance.
 
-I am developing the **Hierarchical Stress Gradient Hypothesis (Hi-SGH)** as a testable framework for this question. The working hypothesis is that increasing stress may first strengthen compensatory organisation and coordination, while rising biological costs can eventually produce threshold behaviour and loss of coherence or resilience.
+### The Hierarchical Stress Gradient Hypothesis (Hi-SGH)
 
-### Conceptual architecture of Hi-SGH
+I am developing **Hi-SGH** as a testable framework for how biological organisation responds to environmental stress. It proposes that compensatory responses may initially increase coordination among processes. As pressure intensifies, maintaining this organisation may become more demanding and vulnerable, eventually leading to reduced coordination and functional deterioration.
 
-<ol class="stress-gradient-map" aria-label="Proposed conceptual architecture of the Hierarchical Stress Gradient Hypothesis">
-  <li><strong>Environmental stress</strong></li>
-  <li><strong>Compensatory organisation</strong></li>
-  <li><strong>Coordination and biological cost</strong></li>
-  <li><strong>Possible threshold behaviour</strong></li>
-  <li><strong>Potential loss of coherence or resilience</strong></li>
-</ol>
+Hi-SGH draws on ecological stress theory, thermodynamic perspectives on living systems and network theory. It generates predictions about changes in organisation, compensation and potential thresholds that can be tested across different biological systems.
 
-Testing this pattern across real-world stress gradients is one route toward understanding when adaptive reorganisation gives way to resilience loss.
+<figure class="research-concept-figure research-concept-figure--curve">
+  <video class="research-animation" autoplay muted loop playsinline preload="metadata" poster="assets/images/research/hi-sgh-stress-gradient-still.webp" aria-label="Conceptual Hi-SGH animation showing a rise and subsequent decline in biological organisation alongside a separate health trajectory across an increasing chemical stress gradient.">
+    <source src="assets/images/research/hi-sgh-stress-gradient.mp4" type="video/mp4">
+  </video>
+  <img class="research-animation-still" src="assets/images/research/hi-sgh-stress-gradient-still.webp" alt="Static view of the conceptual Hi-SGH curves: organisation increases during compensation, then declines, while health follows a separate declining trajectory.">
+  <figcaption><strong>Hi-SGH: conceptual predictions.</strong> The animation illustrates a possible trajectory along increasing chemical stress. In TROPECO-OMICS, <em>Holobiont Multilayer Organisation</em> (HMO, blue) describes coordinated organisation across transcriptomic, proteomic, microbial and physiological layers; health (red) is evaluated separately. The curves are hypotheses for empirical testing, not observed trajectories or universal thresholds.</figcaption>
+</figure>
 
-## Integrative eco-omics
+## Measuring biological organisation {#integrative-eco-omics}
 
-Transcriptomics has been a core part of my work since my PhD. My current research expands this foundation through:
+To study these questions, I combine measures of gene expression, proteins, microbial communities and physiological condition with environmental chemistry and ecological information. **Network analysis and integrative eco-omics** help quantify how biological processes relate to one another, which connections change, and how coordination varies along environmental gradients.
 
-- proteomics and multi-omics integration;
-- host-associated microbiomes and metabarcoding;
-- bacterial and viral metagenomics;
-- genome and transcriptome resources for non-model organisms;
-- physiological and histopathological endpoints;
-- environmental chemistry and spatial ecological gradients.
+A fish and its associated microorganisms form one example of a **holobiont**: interacting host and microbial components whose responses can be studied together. The same research logic can be applied to other organisms, biological communities and ecological networks.
 
-The aim is to connect molecular and microbial patterns with organismal condition, performance and ecological context, and to develop a more integrated view of stress responses across biological layers.
+<figure class="research-concept-figure research-concept-figure--fish">
+  <video class="research-animation" autoplay muted loop playsinline preload="metadata" poster="assets/images/research/reef-fish-holobiont-still.webp" aria-label="Animated reef fish illustrating RNA, protein and microbiome interactions around a host organism.">
+    <source src="assets/images/research/reef-fish-holobiont.mp4" type="video/mp4">
+  </video>
+  <img class="research-animation-still" src="assets/images/research/reef-fish-holobiont-still.webp" alt="Illustrated reef fish with labels for RNA, proteins and microbiome, showing connected molecular and microbial components.">
+  <figcaption><strong>An integrated biological system.</strong> A reef fish illustrates how molecular processes and host-associated microorganisms can be studied together. The changing network patterns are conceptual and depict possible forms of biological reorganisation.</figcaption>
+</figure>
 
-This is particularly important for non-model aquatic organisms, where annotation gaps, uneven reference resources and complex field designs shape what can be inferred from molecular data.
+In **TROPECO-OMICS**, I propose to operationalise Holobiont Multilayer Organisation (HMO) through within-layer network measures and agreement across molecular, microbial and physiological datasets. System condition is assessed separately through health and performance indicators. Network metrics make aspects of organisation measurable; they are complementary to the thermodynamic ideas that motivate the wider programme.
 
-## Reproducible environmental bioinformatics
+## From theory to ecological evidence
 
-Field datasets and non-model organisms repeatedly bring challenges in annotation, provenance and reproducibility. I develop workflows that make analytical decisions explicit and keep results connected to the underlying biological evidence.
+My research has grown from **field ecology and aquatic biodiversity assessment** into fish stress physiology, transcriptomics and environmental bioinformatics. Studies of freshwater salinisation and complex pollutant mixtures laid the empirical foundation for investigating how environmental responses are organised. Research with *Gammarus pulex* has extended these questions to freshwater invertebrates and environmental chemistry gradients.
 
-My approach emphasises:
+I develop reproducible computational resources that preserve the connection between molecular results and their biological interpretation. [EchoGO](https://github.com/miloes114/EchoGo), described in [*MethodsX*](https://doi.org/10.1016/j.mex.2026.104222), supports traceable functional interpretation of transcriptomic data, especially for non-model organisms.
 
-**Traceability.** Analytical outputs retain their relationship to the experimental evidence.
+**TROPECO-OMICS** provides a proposed application of Hi-SGH to tropical freshwater fish holobionts, combining chemical exposure, molecular and microbial networks, physiological endpoints and independent health assessments. My broader interests also extend to coastal systems, including reef-associated organisms and the effects of environmental change on biodiversity and ecosystem functioning.
 
-**Reproducibility.** Code, environments, data boundaries and decision points are documented so analyses can be reproduced and audited.
+The long-term aim of **Environmental Stress Systems Ecology** is to develop and test transferable ways to connect environmental exposure, biological organisation, system function and ecological resilience.
 
-**Biological interpretability.** Functional and statistical outputs are organised around the strength and context of the underlying evidence.
-
-**Transferability.** Workflows are designed for reuse across organisms and projects while retaining biologically important assumptions.
-
-EchoGO grew from this approach, and the same principles guide my current genomics, transcriptomics, metagenomics and research-compendium work.
-
-## Where this research is going
-
-My longer-term goal is to connect:
-
-**environmental exposure → molecular and microbial response → biological organisation → organismal condition and performance → resilience → ecological consequence**
-
-Freshwater and coastal systems provide especially useful real-world gradients for developing and testing these questions.
-
-I want this programme to clarify how biological systems maintain function under pressure, how compensatory responses are organised across layers, and where those responses begin to fail.
+[Explore research projects](projects.qmd) · [Selected publications](publications.qmd) · [Academic CV](https://camiloescobarsierra.com/miloes114-academic-cv/Camilo_Escobar_Sierra_Academic_CV.pdf)

@@ -11,11 +11,13 @@ header-includes:
 
 ::: {.hero}
 ::: {.hero-copy}
+<p class="programme-kicker">Environmental Stress Systems Ecology</p>
+
 ## Comprender la organización biológica y la resiliencia frente al estrés ambiental
 
-Mi investigación estudia cómo el estrés ambiental afecta a los sistemas biológicos, desde las respuestas moleculares hasta el desempeño de los organismos y el cambio ecológico, y cuándo las respuestas adaptativas comienzan a fallar.
+Los sistemas vivos mantienen sus funciones mediante interacciones entre sus componentes biológicos. Estudio cómo el estrés ambiental modifica esa organización y qué implican estos cambios para el funcionamiento y la resiliencia de los sistemas.
 
-Combino gradientes ambientales en condiciones reales con ecología molecular, eco-ómicas integrativas y enfoques computacionales para conectar los mecanismos biológicos con el desempeño de los organismos y sus consecuencias ecológicas. Trabajo principalmente con organismos, comunidades y holobiontes acuáticos.
+Mi enfoque integra ecología de campo, biología molecular y métodos computacionales. Los organismos, comunidades y ecosistemas acuáticos proporcionan una sólida base empírica para preguntas que abarcan distintas escalas biológicas.
 
 [Explorar la investigación](research.qmd){.btn .btn-primary}
 [CV académico](https://camiloescobarsierra.com/miloes114-academic-cv/Camilo_Escobar_Sierra_Academic_CV.pdf){.btn .btn-outline-secondary}

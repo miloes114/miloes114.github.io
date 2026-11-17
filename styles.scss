@@ -564,3 +564,49 @@ a {
     width: 100%;
   }
 }
+
+
+/* Research programme: conceptual animations and definitions */
+.programme-kicker {
+  color: var(--accent);
+  font-size: .8rem;
+  font-weight: 700;
+  letter-spacing: .09em;
+  margin: 0 0 .7rem;
+  text-transform: uppercase;
+}
+.research-concept-figure {
+  margin: 2rem auto 2.5rem;
+  max-width: 780px;
+  padding: 1.25rem;
+  background: var(--paper-soft);
+  border: 1px solid var(--line);
+  text-align: center;
+}
+.research-animation,
+.research-animation-still {
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  max-width: 100%;
+  width: 500px;
+}
+.research-concept-figure figcaption {
+  color: var(--muted);
+  font-size: .87rem;
+  line-height: 1.6;
+  margin: 1.1rem auto .1rem;
+  max-width: 68ch;
+  text-align: left;
+}
+.research-animation-still {
+  display: none;
+}
+@media (prefers-reduced-motion: reduce) {
+  .research-animation { display: none; }
+  .research-animation-still { display: block; }
+}
+@media (max-width: 700px) {
+  .research-concept-figure { padding: .65rem; margin: 1.5rem 0 2rem; }
+  .research-concept-figure figcaption { padding: 0 .35rem; }
+}

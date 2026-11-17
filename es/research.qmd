@@ -1,6 +1,6 @@
 ---
 title: "Investigación"
-subtitle: "De la exposición ambiental a la organización biológica y la resiliencia"
+subtitle: "Ecología de sistemas bajo estrés ambiental · Organización, función y resiliencia biológica"
 lang: es
 header-includes:
   - '<link rel="alternate" hreflang="en" href="https://camiloescobarsierra.com/research.html">'
@@ -8,9 +8,13 @@ header-includes:
   - '<link rel="alternate" hreflang="x-default" href="https://camiloescobarsierra.com/research.html">'
 ---
 
-Mi investigación se sitúa en la intersección de la **ecología molecular, la biología del estrés ambiental, la ecología de sistemas y las eco-ómicas integrativas**. Estudio cómo el estrés ambiental afecta a los sistemas biológicos, desde las respuestas moleculares hasta el desempeño de los organismos y el cambio ecológico, y cuándo las respuestas adaptativas comienzan a fallar.
+## Environmental Stress Systems Ecology
 
-Trabajo principalmente con organismos, comunidades y holobiontes acuáticos. Los gradientes ambientales en condiciones reales proporcionan la base empírica para preguntas que abordo cada vez más a través de capas moleculares, microbianas, fisiológicas y ecológicas.
+Los sistemas vivos mantienen sus funciones mediante interacciones entre componentes biológicos, desde redes moleculares y procesos celulares hasta organismos, comunidades y ecosistemas. El estrés ambiental puede modificar estas interacciones y los recursos necesarios para sostenerlas.
+
+Mi investigación estudia **cómo cambia la organización biológica a lo largo de gradientes de estrés ambiental**, cómo estos cambios influyen en el funcionamiento de los sistemas y en qué condiciones contribuyen a su resiliencia o deterioro. Combino ecología molecular, ecotoxicología ambiental, biología de sistemas y enfoques computacionales. Los ambientes acuáticos proporcionan gran parte de la base empírica de mi trabajo, mientras que las preguntas centrales abarcan distintos sistemas y escalas biológicas.
+
+**Mi pregunta central:** ¿Cómo modifica el estrés ambiental la organización biológica a distintas escalas y cómo influyen estos cambios en el funcionamiento y la resiliencia de los sistemas vivos?
 
 ::: {.photo-strip .research-photo-strip}
 ::: {.photo-strip-item .photo-strip-item--boat}
@@ -29,71 +33,60 @@ Trabajo principalmente con organismos, comunidades y holobiontes acuáticos. Los
 :::
 :::
 
-## Estrés ambiental en condiciones reales {#real-world-environmental-stress}
+## Estrés ambiental y sistemas vivos {#real-world-environmental-stress}
 
-Los organismos en la naturaleza están expuestos a mezclas de estresores químicos y no químicos que varían en el espacio y el tiempo. Utilizo **gradientes de campo y escenarios de exposición ambientalmente realistas** para estudiar estas respuestas dentro de su complejidad ecológica.
+Los ambientes naturales exponen a los sistemas biológicos a condiciones cambiantes, entre ellas mezclas químicas, salinización, variaciones de temperatura y otras presiones que interactúan en el espacio y el tiempo. Los ríos y ecosistemas costeros permiten estudiar estas presiones en condiciones realistas.
 
-Mi trabajo doctoral se centró en peces de agua dulce expuestos a múltiples estresores antropogénicos en ríos urbanos. Esto incluyó transcriptómica *de novo* aplicada en campo y RNA-seq comparativo multitejido para resolver respuestas moleculares a la salinización del agua dulce y a condiciones ambientales complejas.
-
-Más recientemente, he ampliado este trabajo a macroinvertebrados de agua dulce y otros sistemas de vertebrados, conectando química ambiental con patrones de respuesta molecular y análisis ecotoxicogenómicos reproducibles.
-
-A través de estos estudios me interesa identificar **qué procesos biológicos responden, cómo difieren las respuestas entre tejidos o taxones y qué implican esas respuestas para la condición del organismo y el riesgo ecológico**.
+Mi trabajo con peces silvestres y anfípodos de agua dulce ha relacionado gradientes ambientales con cambios en la actividad de los genes y en procesos biológicos. La transcriptómica de campo, las comparaciones entre tejidos y la química ambiental permiten explorar cómo varían las respuestas entre organismos, tejidos y localidades. Estas observaciones ayudan a formular hipótesis sobre los procesos que sostienen el funcionamiento de los sistemas biológicos bajo estrés.
 
 ## Organización biológica y resiliencia {#biological-organisation-and-resilience}
 
-Mi programa de investigación emergente se centra en la **organización biológica y la resiliencia bajo estrés ambiental**. Me interesa cómo el estrés modifica la coordinación entre capas moleculares, microbianas, fisiológicas y del organismo, y dónde las respuestas compensatorias comienzan a perder su capacidad de mantener el desempeño biológico.
+La organización biológica describe **cómo se conectan, coordinan y estructuran los componentes de un sistema vivo**. Desde una perspectiva termodinámica, mantener estados organizados requiere intercambios continuos de energía y materia. Desde la teoría de redes, podemos estudiar la organización mediante patrones de conectividad, modularidad, redundancia y coordinación entre componentes. Estas perspectivas complementarias ayudan a comprender cómo los sistemas vivos mantienen y reorganizan sus funciones.
 
-Estoy desarrollando la **Hierarchical Stress Gradient Hypothesis (Hi-SGH)** como un marco comprobable para esta pregunta. La hipótesis de trabajo plantea que un aumento del estrés puede inicialmente reforzar la organización compensatoria y la coordinación, mientras que el incremento de los costos biológicos puede conducir finalmente a comportamientos de umbral y a una pérdida de coherencia o resiliencia.
+Organización, función y resiliencia describen aspectos relacionados de este proceso:
 
-### Arquitectura conceptual de Hi-SGH
+- **Organización:** la estructura y coordinación de componentes y procesos biológicos.
+- **Función:** las actividades y el desempeño que sostiene el sistema.
+- **Resiliencia:** su capacidad para mantener o recuperar funciones esenciales ante perturbaciones.
 
-<ol class="stress-gradient-map" aria-label="Arquitectura conceptual propuesta de la Hierarchical Stress Gradient Hypothesis">
-  <li><strong>Estrés ambiental</strong></li>
-  <li><strong>Organización compensatoria</strong></li>
-  <li><strong>Coordinación y costo biológico</strong></li>
-  <li><strong>Posible comportamiento de umbral</strong></li>
-  <li><strong>Posible pérdida de coherencia o resiliencia</strong></li>
-</ol>
+### La hipótesis jerárquica del gradiente de estrés (Hi-SGH)
 
-Poner a prueba este patrón a lo largo de gradientes de estrés en condiciones reales ofrece una vía para entender cuándo la reorganización adaptativa da paso a la pérdida de resiliencia.
+Estoy desarrollando **Hi-SGH** como un marco comprobable para investigar cómo responde la organización biológica al estrés ambiental. La hipótesis propone que las respuestas compensatorias pueden aumentar inicialmente la coordinación entre procesos. A medida que aumenta la presión, mantener esa organización podría resultar cada vez más exigente y vulnerable, hasta dar paso a una reducción de la coordinación y al deterioro funcional.
 
-## Eco-ómicas integrativas {#integrative-eco-omics}
+Hi-SGH se apoya en la teoría ecológica del estrés, las perspectivas termodinámicas sobre los sistemas vivos y la teoría de redes. Plantea predicciones sobre cambios en la organización, la compensación y posibles umbrales que pueden ponerse a prueba en distintos sistemas biológicos.
 
-La transcriptómica ha sido una parte central de mi trabajo desde el doctorado. Mi investigación actual amplía esta base mediante:
+<figure class="research-concept-figure research-concept-figure--curve">
+  <video class="research-animation" autoplay muted loop playsinline preload="metadata" poster="../assets/images/research/hi-sgh-stress-gradient-still.webp" aria-label="Animación conceptual de Hi-SGH sobre organización biológica y salud a lo largo de un gradiente creciente de estrés químico.">
+    <source src="../assets/images/research/hi-sgh-stress-gradient.mp4" type="video/mp4">
+  </video>
+  <img class="research-animation-still" src="../assets/images/research/hi-sgh-stress-gradient-still.webp" alt="Imagen estática de las curvas conceptuales de Hi-SGH: la organización crece durante la compensación y después disminuye, mientras la salud presenta una trayectoria independiente de deterioro.">
+  <figcaption><strong>Hi-SGH: predicciones conceptuales.</strong> La animación ilustra una posible trayectoria a lo largo de un gradiente creciente de estrés químico. En TROPECO-OMICS, la <em>organización multicapa del holobionte</em> (HMO, azul) describe la coordinación entre capas transcriptómicas, proteómicas, microbianas y fisiológicas; la salud (rojo) se evalúa de manera independiente. Las curvas son hipótesis para poner a prueba, sin representar trayectorias observadas ni umbrales universales.</figcaption>
+</figure>
 
-- proteómica e integración multi-ómica;
-- microbiomas asociados al hospedador y metabarcoding;
-- metagenómica bacteriana y viral;
-- recursos genómicos y transcriptómicos para organismos no modelo;
-- variables fisiológicas e histopatológicas;
-- química ambiental y gradientes ecológicos espaciales.
+## Medición de la organización biológica {#integrative-eco-omics}
 
-El objetivo es conectar patrones moleculares y microbianos con la condición del organismo, su desempeño y su contexto ecológico, y desarrollar una visión más integrada de las respuestas al estrés a través de distintas capas biológicas.
+Para abordar estas preguntas, integro mediciones de expresión génica, proteínas, comunidades microbianas y condición fisiológica con química ambiental e información ecológica. **El análisis de redes y las eco-ómicas integrativas** permiten cuantificar cómo se relacionan los procesos biológicos, qué conexiones cambian y cómo varía su coordinación a lo largo de gradientes ambientales.
 
-Esto es especialmente relevante para organismos acuáticos no modelo, donde las limitaciones de anotación, la disponibilidad desigual de recursos de referencia y los diseños de campo complejos condicionan lo que puede inferirse de los datos moleculares.
+Un pez y sus microorganismos asociados constituyen un ejemplo de **holobionte**: componentes del hospedador y de sus comunidades microbianas que interactúan y pueden estudiarse conjuntamente. La misma lógica de investigación puede aplicarse a otros organismos, comunidades biológicas y redes ecológicas.
 
-## Bioinformática ambiental reproducible
+<figure class="research-concept-figure research-concept-figure--fish">
+  <video class="research-animation" autoplay muted loop playsinline preload="metadata" poster="../assets/images/research/reef-fish-holobiont-still.webp" aria-label="Animación de un pez de arrecife que ilustra las interacciones entre ARN, proteínas y microbioma en torno al hospedador.">
+    <source src="../assets/images/research/reef-fish-holobiont.mp4" type="video/mp4">
+  </video>
+  <img class="research-animation-still" src="../assets/images/research/reef-fish-holobiont-still.webp" alt="Ilustración de un pez de arrecife con ARN, proteínas y microbioma, mostrando componentes moleculares y microbianos conectados.">
+  <figcaption><strong>Un sistema biológico integrado.</strong> Un pez de arrecife ilustra cómo pueden estudiarse conjuntamente los procesos moleculares y los microorganismos asociados al hospedador. Los patrones cambiantes de redes son conceptuales y representan posibles formas de reorganización biológica.</figcaption>
+</figure>
 
-Los datos de campo y los organismos no modelo plantean de forma recurrente desafíos de anotación, procedencia y reproducibilidad. Desarrollo flujos de trabajo que hacen explícitas las decisiones analíticas y mantienen los resultados conectados con la evidencia biológica subyacente.
+En **TROPECO-OMICS**, propongo medir la organización multicapa del holobionte (HMO) mediante propiedades de las redes dentro de cada capa y la concordancia entre datos moleculares, microbianos y fisiológicos. La condición del sistema se evalúa por separado mediante indicadores de salud y desempeño. Las métricas de redes permiten cuantificar aspectos de la organización y complementan las ideas termodinámicas que motivan el programa más amplio.
 
-Mi enfoque prioriza:
+## De la teoría a la evidencia ecológica
 
-**Trazabilidad.** Los resultados analíticos mantienen su relación con la evidencia experimental.
+Mi trayectoria ha evolucionado desde **la ecología de campo y la evaluación de biodiversidad acuática** hacia la fisiología del estrés en peces, la transcriptómica y la bioinformática ambiental. Los estudios sobre salinización del agua dulce y mezclas complejas de contaminantes proporcionaron la base empírica para investigar cómo se organizan las respuestas ambientales. La investigación con *Gammarus pulex* ha ampliado estas preguntas a invertebrados de agua dulce y gradientes de química ambiental.
 
-**Reproducibilidad.** El código, los entornos, los límites de los datos y los puntos de decisión se documentan para que los análisis puedan reproducirse y auditarse.
+Desarrollo recursos computacionales reproducibles que conservan el vínculo entre los resultados moleculares y su interpretación biológica. [EchoGO](https://github.com/miloes114/EchoGo), presentado en [*MethodsX*](https://doi.org/10.1016/j.mex.2026.104222), facilita la interpretación funcional trazable de datos transcriptómicos, especialmente en organismos no modelo.
 
-**Interpretabilidad biológica.** Los resultados funcionales y estadísticos se organizan de acuerdo con la fuerza y el contexto de la evidencia subyacente.
+**TROPECO-OMICS** ofrece una aplicación propuesta de Hi-SGH a holobiontes de peces tropicales de agua dulce mediante la integración de exposición química, redes moleculares y microbianas, variables fisiológicas y evaluaciones independientes de salud. Mis intereses también abarcan los sistemas costeros, incluidos los organismos de arrecife y los efectos del cambio ambiental sobre la biodiversidad y el funcionamiento de los ecosistemas.
 
-**Transferibilidad.** Los flujos de trabajo se diseñan para poder reutilizarse entre organismos y proyectos, conservando los supuestos biológicos relevantes.
+El objetivo a largo plazo de **Environmental Stress Systems Ecology** es desarrollar y poner a prueba enfoques transferibles que relacionen la exposición ambiental, la organización biológica, el funcionamiento de los sistemas y la resiliencia ecológica.
 
-EchoGO surgió de este enfoque, y los mismos principios guían mi trabajo actual en genómica, transcriptómica, metagenómica y compendios reproducibles de investigación.
-
-## Hacia dónde se dirige esta investigación
-
-Mi objetivo a largo plazo es conectar:
-
-**exposición ambiental → respuesta molecular y microbiana → organización biológica → condición y desempeño del organismo → resiliencia → consecuencia ecológica**
-
-Los sistemas de agua dulce y costeros ofrecen gradientes particularmente útiles para desarrollar y poner a prueba estas preguntas en condiciones reales.
-
-Quiero que este programa ayude a aclarar cómo los sistemas biológicos mantienen su función bajo presión, cómo se organizan las respuestas compensatorias entre distintas capas y dónde esas respuestas comienzan a fallar.
+[Explorar proyectos](projects.qmd) · [Publicaciones seleccionadas](publications.qmd) · [CV académico](https://camiloescobarsierra.com/miloes114-academic-cv/Camilo_Escobar_Sierra_Academic_CV.pdf)
