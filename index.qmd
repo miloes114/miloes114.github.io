@@ -1,6 +1,6 @@
 ---
 title: "Camilo Escobar-Sierra"
-subtitle: "Molecular ecology · Environmental stress biology · Systems ecology · Integrative eco-omics"
+subtitle: "Environmental stress · Biological responses · Resilience"
 page-layout: full
 header-includes:
   - '<link rel="alternate" hreflang="en" href="https://camiloescobarsierra.com/">'
@@ -12,11 +12,13 @@ header-includes:
 ::: {.hero-copy}
 <p class="programme-kicker">Environmental Stress Systems Ecology</p>
 
-## Understanding biological organisation and resilience under environmental stress
+## How do living systems cope with environmental stress?
 
-Living systems sustain their functions through interactions among biological components. I study how environmental stress changes that organisation, and what these changes mean for system function and resilience.
+Pollution, increasing salinity and other environmental pressures affect living systems in many ways. Organisms respond by adjusting their molecular processes, physiology and interactions with their environment. These changes can influence how they function, maintain their health and recover from disturbance.
 
-My approach brings together field ecology, molecular biology and computational methods. Aquatic organisms, communities and ecosystems provide a strong empirical foundation for questions that extend across biological scales.
+My research explores how biological processes work together under environmental stress, how their organisation changes, and what these changes mean for resilience.
+
+I combine field studies, molecular biology and computational approaches, drawing on my experience with aquatic organisms and ecosystems to investigate questions that extend across biological scales.
 
 [Explore the research](research.qmd){.btn .btn-primary}
 [Academic CV](https://camiloescobarsierra.com/miloes114-academic-cv/Camilo_Escobar_Sierra_Academic_CV.pdf){.btn .btn-outline-secondary}
@@ -38,52 +40,54 @@ Institute for Environmental Research (IfER), RWTH Aachen University
 
 ---
 
-## Three connected research dimensions
+## How I study environmental stress
 
-Together, these dimensions frame my research programme.
+My work connects field studies, biological responses and the evidence needed to understand them.
 
 ::: {.research-grid}
 ::: {.research-card}
-### Real-world environmental stress
+### Environmental stress in the field
 
-Field gradients reveal how chemical mixtures, salinisation and changing environmental conditions affect living systems in their ecological context.
+I study how pollution, salinity and other environmental pressures affect aquatic systems through field studies and experiments that reflect natural exposure conditions.
 
 [Read more →](research.qmd#real-world-environmental-stress)
 :::
 
 ::: {.research-card}
-### Biological organisation and resilience
+### How biological systems cope
 
-I study how stress changes the organisation of biological processes, how compensation is maintained, and what these changes mean for function and resilience.
+I investigate how biological processes adjust under stress, how these responses help maintain essential functions, and how their effectiveness changes as environmental pressures increase.
 
 [Read more →](research.qmd#biological-organisation-and-resilience)
 :::
 
 ::: {.research-card}
-### Measuring biological organisation
+### Connecting molecular and ecological evidence
 
-I bring together molecular, microbial, physiological and ecological evidence with network analysis to examine how biological components are connected and coordinated.
+I bring together molecular, microbial, physiological and ecological information to understand how biological processes are coordinated and how this organisation influences health and resilience.
 
 [Read more →](research.qmd#integrative-eco-omics)
 :::
 :::
 
 ::: {.cross-cutting}
-Across these questions, I develop reproducible workflows and resources for complex and non-model biological systems, with emphasis on traceability, biological interpretation and reusable computation.
+I also develop reproducible data-analysis tools that help researchers interpret, compare and reuse molecular evidence, especially for less-studied species.
 :::
 
 ::: {.research-programme-map role="group" aria-labelledby="research-programme-title"}
-### A conceptual map of the research programme {#research-programme-title}
+### Exploring environmental stress across biological scales {#research-programme-title}
 
-These five dimensions connect environmental pressures, biological processes and their consequences. Their relationships can vary among systems, rather than following one fixed sequence.
+These connected aspects of my research help explain how environmental pressures affect living systems. Their relationships can vary across different systems.
 
-<ul class="programme-map" aria-label="Connected dimensions of the research programme">
-  <li><strong>Environmental stress</strong><span>Field gradients · environmental chemistry</span></li>
-  <li><strong>Biological responses</strong><span>Molecular · microbial · physiological processes</span></li>
-  <li><strong>Organisation</strong><span>Networks · coordination · structure</span></li>
-  <li><strong>Function &amp; health</strong><span>Physiological condition · performance</span></li>
-  <li><strong>Resilience &amp; ecological outcomes</strong><span>Persistence · recovery · ecological change</span></li>
+<ul class="programme-map" aria-label="Connected aspects of environmental stress research">
+  <li><strong>Environmental pressures</strong><span>Field studies · exposure</span></li>
+  <li><strong>Biological responses</strong><span>Genes · microbes · physiology</span></li>
+  <li><strong>How processes work together</strong><span>Biological organisation</span></li>
+  <li><strong>Health &amp; function</strong><span>Condition · performance</span></li>
+  <li><strong>Resilience &amp; ecological change</strong><span>Persistence · recovery</span></li>
 </ul>
+
+Biological organisation describes how the components and processes of living systems interact and coordinate their activities.
 :::
 
 ---
@@ -93,21 +97,21 @@ These five dimensions connect environmental pressures, biological processes and 
 ::: {.project-strip}
 ::: {.project-mini}
 **EchoGO**  
-A reproducible framework for annotation-context-aware functional interpretation in non-model transcriptomics.
+An open-source tool that helps researchers interpret changes in gene activity, particularly in less-studied species.
 
 [MethodsX](https://doi.org/10.1016/j.mex.2026.104222) · [GitHub](https://github.com/miloes114/EchoGo) · [Zenodo](https://doi.org/10.5281/zenodo.17658714)
 :::
 
 ::: {.project-mini}
 **Holtemme Gammarus Ecotoxicogenomics**  
-A reproducible research compendium linking micropollutant gradients with transcriptomic and network responses in wild *Gammarus pulex*.
+A reproducible analysis connecting pollutant mixtures in a river with changes in gene activity and biological networks in the freshwater amphipod *Gammarus pulex*.
 
 [GitHub](https://github.com/miloes114/holtemme-gammarus-ecotoxicogenomics)
 :::
 
 ::: {.project-mini}
 **Biological organisation and resilience**  
-Connecting established field and molecular evidence with ongoing analyses to develop testable questions about organisation, compensation and resilience under environmental stress.
+Ongoing research into how living systems coordinate their responses to environmental stress and maintain essential functions.
 
 [Research vision](research.qmd#biological-organisation-and-resilience)
 :::
@@ -117,7 +121,7 @@ Connecting established field and molecular evidence with ongoing analyses to dev
 
 ## A trajectory grounded in organisms and field ecology
 
-My research trajectory has progressively integrated **field, molecular and computational approaches** around questions of environmental stress. It began in ichthyology, freshwater ecology and applied aquatic science in Colombia, developed through fish stress physiology and field transcriptomics, and now extends into integrative eco-omics and systems-level questions of resilience.
+My research began with field studies of fish and freshwater ecosystems in Colombia. I later focused on how fish physiology and gene activity respond to environmental stress. Today, I combine field observations, molecular evidence and computational approaches to investigate biological organisation and resilience.
 
 [About me](about.qmd) · [Selected publications](publications.qmd)
 

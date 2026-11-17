@@ -1,6 +1,6 @@
 ---
 title: "Camilo Escobar-Sierra"
-subtitle: "Ecología molecular · Biología del estrés ambiental · Ecología de sistemas · Eco-ómicas integrativas"
+subtitle: "Estrés ambiental · Respuestas biológicas · Resiliencia"
 page-layout: full
 lang: es
 header-includes:
@@ -13,11 +13,13 @@ header-includes:
 ::: {.hero-copy}
 <p class="programme-kicker">Environmental Stress Systems Ecology</p>
 
-## Comprender la organización biológica y la resiliencia frente al estrés ambiental
+## ¿Cómo afrontan los sistemas vivos el estrés ambiental?
 
-Los sistemas vivos mantienen sus funciones mediante interacciones entre sus componentes biológicos. Estudio cómo el estrés ambiental modifica esa organización y qué implican estos cambios para el funcionamiento y la resiliencia de los sistemas.
+La contaminación, el aumento de la salinidad y otras presiones ambientales afectan a los sistemas vivos de distintas maneras. Los organismos responden ajustando sus procesos moleculares, su fisiología y sus interacciones con el ambiente. Estos cambios pueden influir en su funcionamiento, su salud y su capacidad de recuperarse de las perturbaciones.
 
-Mi enfoque integra ecología de campo, biología molecular y métodos computacionales. Los organismos, comunidades y ecosistemas acuáticos proporcionan una sólida base empírica para preguntas que abarcan distintas escalas biológicas.
+Mi investigación explora cómo trabajan conjuntamente los procesos biológicos bajo estrés ambiental, cómo cambia su organización y qué implican estos cambios para la resiliencia.
+
+Combino estudios de campo, biología molecular y enfoques computacionales. Mi experiencia con organismos y ecosistemas acuáticos me permite investigar preguntas que abarcan distintas escalas biológicas.
 
 [Explorar la investigación](research.qmd){.btn .btn-primary}
 [CV académico](https://camiloescobarsierra.com/miloes114-academic-cv/Camilo_Escobar_Sierra_Academic_CV.pdf){.btn .btn-outline-secondary}
@@ -39,52 +41,54 @@ Institute for Environmental Research (IfER), RWTH Aachen University
 
 ---
 
-## Tres dimensiones conectadas de investigación
+## Cómo estudio el estrés ambiental
 
-En conjunto, estas dimensiones estructuran mi programa de investigación.
+Mi trabajo conecta estudios de campo, respuestas biológicas y distintas fuentes de evidencia para comprenderlas.
 
 ::: {.research-grid}
 ::: {.research-card}
-### Estrés ambiental en condiciones reales
+### Estrés ambiental en el campo
 
-Los gradientes de campo permiten estudiar cómo las mezclas químicas, la salinización y las condiciones ambientales cambiantes afectan a los sistemas vivos en su contexto ecológico.
+Estudio cómo la contaminación, la salinidad y otras presiones ambientales afectan a los sistemas acuáticos mediante estudios de campo y experimentos que reflejan condiciones de exposición naturales.
 
 [Leer más →](research.qmd#real-world-environmental-stress)
 :::
 
 ::: {.research-card}
-### Organización biológica y resiliencia
+### Cómo responden los sistemas biológicos
 
-Estudio cómo el estrés modifica la organización de los procesos biológicos, cómo se mantiene la compensación y qué implican estos cambios para el funcionamiento y la resiliencia.
+Investigo cómo se ajustan los procesos biológicos ante el estrés, cómo estas respuestas ayudan a mantener funciones esenciales y cómo cambia su eficacia cuando aumentan las presiones ambientales.
 
 [Leer más →](research.qmd#biological-organisation-and-resilience)
 :::
 
 ::: {.research-card}
-### Medición de la organización biológica
+### Conectar la evidencia molecular y ecológica
 
-Integro evidencia molecular, microbiana, fisiológica y ecológica con análisis de redes para estudiar cómo se conectan y coordinan los componentes biológicos.
+Integro información molecular, microbiana, fisiológica y ecológica para comprender cómo se coordinan los procesos biológicos y cómo influye esta organización en la salud y la resiliencia.
 
 [Leer más →](research.qmd#integrative-eco-omics)
 :::
 :::
 
 ::: {.cross-cutting}
-A través de estas preguntas desarrollo flujos de trabajo y recursos reproducibles para sistemas biológicos complejos y organismos no modelo, con énfasis en la trazabilidad, la interpretación biológica y la reutilización computacional.
+También desarrollo herramientas de análisis reproducibles que facilitan la interpretación, la comparación y la reutilización de datos moleculares, especialmente en especies poco estudiadas.
 :::
 
 ::: {.research-programme-map role="group" aria-labelledby="research-programme-title-es"}
-### Un mapa conceptual del programa de investigación {#research-programme-title-es}
+### Explorar el estrés ambiental a distintas escalas biológicas {#research-programme-title-es}
 
-Estas cinco dimensiones relacionan las presiones ambientales, los procesos biológicos y sus consecuencias. Sus relaciones pueden variar entre sistemas, sin seguir una única secuencia fija.
+Estos aspectos de mi investigación ayudan a comprender cómo afectan las presiones ambientales a los sistemas vivos. Sus relaciones pueden variar entre distintos sistemas.
 
-<ul class="programme-map" aria-label="Dimensiones conectadas del programa de investigación">
-  <li><strong>Estrés ambiental</strong><span>Gradientes de campo · química ambiental</span></li>
-  <li><strong>Respuestas biológicas</strong><span>Procesos moleculares · microbianos · fisiológicos</span></li>
-  <li><strong>Organización</strong><span>Redes · coordinación · estructura</span></li>
-  <li><strong>Función y salud</strong><span>Condición fisiológica · desempeño</span></li>
-  <li><strong>Resiliencia y consecuencias ecológicas</strong><span>Persistencia · recuperación · cambio ecológico</span></li>
+<ul class="programme-map" aria-label="Aspectos relacionados de la investigación sobre estrés ambiental">
+  <li><strong>Presiones ambientales</strong><span>Estudios de campo · exposición</span></li>
+  <li><strong>Respuestas biológicas</strong><span>Genes · microbios · fisiología</span></li>
+  <li><strong>Cómo se coordinan los procesos</strong><span>Organización biológica</span></li>
+  <li><strong>Salud y función</strong><span>Condición · desempeño</span></li>
+  <li><strong>Resiliencia y cambio ecológico</strong><span>Persistencia · recuperación</span></li>
 </ul>
+
+La organización biológica describe cómo interactúan y coordinan sus actividades los componentes y procesos de los sistemas vivos.
 :::
 
 ---
@@ -94,21 +98,21 @@ Estas cinco dimensiones relacionan las presiones ambientales, los procesos biol�
 ::: {.project-strip}
 ::: {.project-mini}
 **EchoGO**  
-Un marco reproducible para la interpretación funcional sensible al contexto de anotación en transcriptómica de organismos no modelo.
+Una herramienta de código abierto que ayuda a interpretar cambios en la actividad de los genes, especialmente en especies poco estudiadas.
 
 [MethodsX](https://doi.org/10.1016/j.mex.2026.104222) · [GitHub](https://github.com/miloes114/EchoGo) · [Zenodo](https://doi.org/10.5281/zenodo.17658714)
 :::
 
 ::: {.project-mini}
 **Holtemme Gammarus Ecotoxicogenomics**  
-Un compendio reproducible que conecta gradientes de micropoluentes con respuestas transcriptómicas y de redes génicas en poblaciones silvestres de *Gammarus pulex*.
+Un análisis reproducible que relaciona mezclas de contaminantes en un río con cambios en la actividad génica y las redes biológicas del anfípodo de agua dulce *Gammarus pulex*.
 
 [GitHub](https://github.com/miloes114/holtemme-gammarus-ecotoxicogenomics)
 :::
 
 ::: {.project-mini}
 **Organización biológica y resiliencia**  
-Conecto evidencia de campo y molecular con análisis en curso para desarrollar preguntas comprobables sobre organización, compensación y resiliencia bajo estrés ambiental.
+Investigaciones en curso sobre cómo los sistemas vivos coordinan sus respuestas al estrés ambiental y mantienen funciones esenciales.
 
 [Programa de investigación](research.qmd#biological-organisation-and-resilience)
 :::
@@ -118,7 +122,7 @@ Conecto evidencia de campo y molecular con análisis en curso para desarrollar p
 
 ## Una trayectoria arraigada en los organismos y la ecología de campo
 
-Mi trayectoria de investigación ha integrado progresivamente **enfoques de campo, moleculares y computacionales** alrededor de preguntas sobre estrés ambiental. Comenzó en la ictiología, la ecología de agua dulce y la ciencia acuática aplicada en Colombia, se desarrolló a través de la fisiología del estrés en peces y la transcriptómica de campo, y hoy se extiende hacia las eco-ómicas integrativas y preguntas de resiliencia a nivel de sistemas.
+Mi investigación comenzó con estudios de campo sobre peces y ecosistemas de agua dulce en Colombia. Después me centré en cómo responden la fisiología y la actividad génica de los peces al estrés ambiental. Hoy combino observaciones de campo, evidencia molecular y enfoques computacionales para investigar la organización biológica y la resiliencia.
 
 [Sobre mí](about.qmd) · [Publicaciones seleccionadas](publications.qmd)
 
